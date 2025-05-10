@@ -1,0 +1,3348 @@
+Primary Crop: rice
+Input Conditions: {'N': '85', 'P': '58', 'K': '41', 'pH': '7.038096361', 'Rainfall': '226.6555374', 'Humidity': '80.31964408', 'Temperature': '21.77046169'}
+LLaMA Suggestions:
+Based on the provided soil and weather conditions, here are some structured farming suggestions:
+
+**Crop Selection**
+
+* Primary Crop: Rice (as given)
+* Secondary Crop: Soybean (complements rice and provides nitrogen fixation)
+
+**Irrigation Method**
+
+* Best Irrigation Method: Furrow irrigation with drip irrigation system for efficient water use
+
+**Fertilizer Application**
+
+* Fertilizer Type:
+	+ Nitrogen: Diammonium phosphate (DAP) - 120 kg/ha
+	+ Phosphorus: Single Super Phosphate (SSP) - 80 kg/ha
+	+ Potassium: Muriate of Potash (MOP) - 60 kg/ha
+* Timing:
+	+ Basal application at sowing time
+	+ Split applications during tillering and panicle initiation stages
+
+**Care Tips**
+
+* Maintain soil pH between 6.5-7.0 for optimal rice growth
+* Monitor rainfall and adjust irrigation schedule accordingly to prevent waterlogging
+* Apply 2-3 sprays of fungicides (e.g., tricyclazole) at 10-15 days interval to control sheath blight disease
+* Ensure proper drainage system to avoid water stagnation
+
+**Additional Recommendations**
+
+* Crop rotation: Alternate rice with soybean or wheat to maintain soil fertility and structure
+* Integrated Pest Management (IPM): Implement a combination of cultural, biological, and chemical methods to minimize pest damage and reduce chemical usage
+================================================================================
+
+Primary Crop: rice
+Input Conditions: {'N': '64', 'P': '45', 'K': '43', 'pH': '5.534878156', 'Rainfall': '209.9001977', 'Humidity': '83.52842314', 'Temperature': '25.62980105'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+### Primary Crop
+* **Crop Name**: Rice
+* **Variety**: Jasmine 85 (suitable for acidic soil and moderate climate)
+
+### Secondary Crop
+* **Crop Name**: Green Beans
+* **Purpose**: Companion planting to enhance growth and reduce pests
+
+### Best Irrigation Method
+* **Method**: Drip irrigation
+* **Frequency**: Every alternate day
+* **Duration**: 30 minutes in the morning and evening
+
+### Fertilizer Type & Dosage
+* **Nitrogen**: Ammonium sulfate (21-0-0) - 150 kg/ha
+* **Phosphorus**: Diammonium phosphate (18-46-0) - 120 kg/ha
+* **Potassium**: Potassium chloride (0-0-60) - 180 kg/ha
+
+### Essential Care Tips
+
+#### Pest and Disease Management
+* Monitor for rice blast and sheath blight regularly
+* Use neem oil or trichoderma to control fungal infections
+
+#### Soil Preparation
+* Add compost to improve soil structure and fertility
+* Maintain pH level between 5.5 and 6.5
+
+#### Crop Rotation
+* Rotate with green beans after every two harvests to maintain soil health
+
+#### Water Management
+* Monitor rainfall and adjust irrigation schedule accordingly
+* Use mulch to retain moisture and suppress weeds
+================================================================================
+
+Primary Crop: rice
+Input Conditions: {'N': '91', 'P': '35', 'K': '38', 'pH': '6.13428721', 'Rainfall': '183.6793207', 'Humidity': '80.52586088', 'Temperature': '24.8972823'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+*   **Primary Crop:** Rice
+*   **Secondary Crop:** Beans
+    *   This crop is suitable for the given climate and soil conditions, providing a complementary nitrogen-fixing effect.
+*   **Best Irrigation Method:**
+    *   Drip irrigation: It minimizes evaporation, reduces water consumption by up to 30%, and allows precise nutrient delivery.
+*   **Fertilizer Type & Dosage:**
+
+    | Fertilizer | Quantity (per hectare) |
+    | --- | --- |
+    | Urea (46-0-0 NPK) | 250 kg |
+    | DAP (18-46-0 NPK) | 200 kg |
+    | Muriate of Potash (0-0-60 K2O) | 150 kg |
+
+    *   Based on soil test results, a balanced fertilizer with appropriate NPK ratio is recommended.
+*   **Essential Care Tips:**
+
+    *   **Crop Rotation:** Rotate rice with beans to maintain soil fertility and prevent pests/diseases buildup.
+    *   **Soil pH Management:** Regularly monitor and adjust the pH level between 6.0 and 7.0 for optimal crop growth.
+    *   **Water Conservation:** Implement efficient irrigation practices to minimize water loss through evaporation.
+    *   **Integrated Pest Management (IPM):** Monitor for pests and diseases regularly, using a combination of physical, cultural, biological, and chemical controls as needed.
+
+These suggestions are based on the given input features and aim to optimize crop yields while minimizing environmental impact.
+================================================================================
+
+Primary Crop: rice
+Input Conditions: {'N': '93', 'P': '53', 'K': '38', 'pH': '7.069172227', 'Rainfall': '290.67937830000005', 'Humidity': '81.91411159', 'Temperature': '26.92995077'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+### Primary Crop: Rice
+
+#### Secondary Crop
+* Soybeans (complementary crop for optimal soil usage)
+
+#### Best Irrigation Method
+* Drip irrigation (efficient water delivery and reduced runoff)
+
+#### Fertilizer Type & Dosage
+* NPK fertilizer with a balanced ratio of Nitrogen, Phosphorus, and Potassium:
+	+ Nitrogen: 12-15 ppm (to maintain balance after initial high levels)
+	+ Phosphorus: 10-12 ppm (support root development and fruiting)
+	+ Potassium: 8-10 ppm (for overall plant health)
+
+#### Essential Care Tips
+* **Crop Rotation:** Rotate with legumes to enhance nitrogen fixation.
+* **Soil Monitoring:** Regularly check soil pH and nutrient levels for adjustments.
+* **Pest Management:** Implement integrated pest management techniques, focusing on organic methods when feasible.
+* **Water Conservation:** Monitor rainfall patterns and adjust irrigation schedules accordingly.
+
+### Additional Considerations
+
+* The pH level of 7.069 is slightly alkaline; consider adding acidic fertilizers in small doses to maintain an optimal range (pH 6-7).
+* High humidity might lead to fungal diseases; ensure proper air circulation around plants.
+* Rice's temperature requirement ranges from 15°C to 35°C. The provided temperature is within this range, making it suitable for cultivation.
+================================================================================
+
+Primary Crop: rice
+Input Conditions: {'N': '74', 'P': '54', 'K': '38', 'pH': '7.120272972', 'Rainfall': '217.3788583', 'Humidity': '83.47021081', 'Temperature': '25.65553461'}
+LLaMA Suggestions:
+Here are the structured farming suggestions based on the given soil and weather conditions:
+
+**Crop Selection**
+- Primary Crop: Rice
+- Secondary Crop: Lettuce (for intercropping to improve soil fertility)
+
+**Irrigation Method**
+- Best Irrigation Method: Drip Irrigation System for efficient water use
+
+**Fertilizer Application**
+- Fertilizer Type & Dosage:
+  - Nitrogen: Ammonium Sulfate (20% N) - 150 kg/ha
+  - Phosphorus: Single Superphosphate (16% P2O5) - 100 kg/ha
+  - Potassium: Muriate of Potash (60% KCl) - 75 kg/ha
+
+**Care Tips**
+- **Soil pH Adjustment**: Apply lime to adjust the pH level to 6.8 for optimal rice growth.
+- **Water Management**: Monitor and control flooding to prevent waterlogged conditions, which can lead to root rot in rice.
+- **Pest Control**: Regularly check for pests like weeds, nematodes, and fungal diseases.
+- **Crop Rotation**: Rotate the field with legumes (e.g., beans or lentils) after rice harvest to replenish soil nitrogen levels.
+
+**Additional Tips**
+- Monitor rainfall closely and plan irrigation accordingly. With 217 mm of rainfall, supplemental irrigation might not be necessary.
+- Maintain adequate humidity by ensuring proper water management techniques. Avoid overwatering, which can promote fungal diseases in rice.
+
+These suggestions are tailored to the given conditions for an optimal rice crop harvest.
+================================================================================
+
+Primary Crop: maize
+Input Conditions: {'N': '60', 'P': '44', 'K': '23', 'pH': '5.722579819', 'Rainfall': '76.72860067', 'Humidity': '70.04556743', 'Temperature': '24.7947077'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+### Primary Crop: Maize
+
+#### Soil Nutrients Analysis
+
+| Parameter | Value |
+| --- | --- |
+| Nitrogen (ppm) | 60 ppm (Optimal: 50-100 ppm) |
+| Phosphorus (ppm) | 44 ppm (Optimal: 30-60 ppm) |
+| Potassium (ppm) | 23 ppm (Optimal: 20-40 ppm) |
+
+#### Weather Conditions
+
+| Parameter | Value |
+| --- | --- |
+| Rainfall (mm) | 76.72860067 mm (Sufficient for maize growth) |
+| Humidity (%) | 70.04556743% (Ideal for maize growth) |
+| Temperature (°C) | 24.7947077°C (Optimal temperature range: 20-25°C) |
+
+#### Secondary Crop
+
+* Sunflower, as it complements maize and can benefit from its shade during intense sunlight.
+
+#### Best Irrigation Method
+
+* **Drip Irrigation**: Ideal for maize, as it reduces soil erosion and ensures efficient water use.
+
+#### Fertilizer Type & Dosage
+
+| Parameter | Value |
+| --- | --- |
+| Nitrogen (N) | 15:15:15 NPK (balanced fertilizer with 15% nitrogen, phosphorus, and potassium) |
+| Dosage | Apply 250 kg/ha of 15:15:15 NPK fertilizer |
+
+#### Essential Care Tips
+
+* **Crop Rotation**: Rotate maize with sunflower to maintain soil fertility and reduce pests/diseases.
+* **Pest Management**: Monitor for aphids, whiteflies, and stem borers. Use integrated pest management techniques when necessary.
+* **Weed Control**: Regularly monitor and control weeds to prevent competition for water and nutrients.
+
+By following these suggestions, you can ensure optimal growth of your maize crop under the given soil and weather conditions.
+================================================================================
+
+Primary Crop: maize
+Input Conditions: {'N': '76', 'P': '48', 'K': '18', 'pH': '5.77597783', 'Rainfall': '83.21030571', 'Humidity': '69.63481219', 'Temperature': '19.29563411'}
+LLaMA Suggestions:
+Based on the given soil and weather conditions, here are the structured farming suggestions:
+
+**Crop Selection**
+- Primary Crop: Maize (suitable for acidic soils with moderate rainfall)
+- Secondary Crop: **Soybean or Groundnut** (can be intercropped to improve soil fertility and reduce erosion)
+
+**Irrigation Method**
+- Best Irrigation Method: **Drip Irrigation** (efficient use of water, reduces evaporation and runoff)
+
+**Fertilizer Type & Dosage**
+
+| Nutrient | Soil Content (ppm) | Recommended Fertilizer | Dosage (kg/ha) |
+| --- | --- | --- | --- |
+| Nitrogen | 76 | Urea or DAP | 150-200 |
+| Phosphorus | 48 | Di-Ammonium Phosphate (DAP) | 100-120 |
+| Potassium | 18 | Muriate of Potash (MOP) | 80-100 |
+
+**Essential Care Tips**
+
+1. **Soil pH adjustment**: Apply lime to adjust the soil pH to optimal range (6.0-7.0)
+2. **Crop rotation**: Rotate maize with soybean or groundnut to improve soil fertility and reduce erosion
+3. **Water management**: Monitor rainfall and humidity levels, adjust irrigation schedule accordingly
+4. **Pest and disease management**: Regularly monitor for pests and diseases, use integrated pest management (IPM) techniques as needed
+================================================================================
+
+Primary Crop: maize
+Input Conditions: {'N': '89', 'P': '60', 'K': '17', 'pH': '5.983952675', 'Rainfall': '101.7004306', 'Humidity': '57.21025565', 'Temperature': '25.37548751'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+### Primary Crop: Maize
+
+#### Secondary Crop:
+
+* Recommended secondary crop: Soybean or Sunflower (for rotational benefits and pest control)
+
+#### Best Irrigation Method:
+
+* Drip irrigation system for efficient water usage and reduced soil erosion
+* Frequency: 3-4 times a week, depending on weather conditions
+
+#### Fertilizer Type & Dosage:
+
+* Nitrogen-based fertilizer (e.g., Urea): 120 kg/ha
+	+ Reason: maize requires significant nitrogen uptake during growth
+* Phosphorus-based fertilizer (e.g., DAP): 80 kg/ha
+	+ Reason: phosphorus essential for root development and overall plant health
+* Potassium-based fertilizer (e.g., MOP): 40 kg/ha
+	+ Reason: potassium helps maintain soil structure and promotes disease resistance
+
+#### Essential Care Tips:
+
+* Monitor temperature fluctuations to prevent heat stress
+* Maintain optimal pH level between 6.0-7.0 for maize growth
+* Regularly inspect fields for pest and disease outbreaks, applying integrated pest management (IPM) techniques as needed
+================================================================================
+
+Primary Crop: maize
+Input Conditions: {'N': '86', 'P': '55', 'K': '21', 'pH': '6.803931519', 'Rainfall': '109.7515385', 'Humidity': '59.64024162', 'Temperature': '21.54156232'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+* **Primary Crop**: Maize (based on given climate and soil conditions)
+* **Secondary Crop**: Beans or Soybeans (they complement maize, improve soil health, and require similar growing conditions)
+* **Best Irrigation Method**: Drip Irrigation (efficient use of water, reduces evaporation, and minimizes root rot)
+* **Fertilizer Type & Dosage**:
+	+ Nitrogen: 120 kg/ha (additional N to promote plant growth and leafy development)
+	+ Phosphorus: 80 kg/ha (enhances root development, flower formation, and seed production)
+	+ Potassium: 50 kg/ha (improves overall plant health, resistance to disease, and water use efficiency)
+* **Essential Care Tips**:
+	+ Maintain a pH range of 6.0-7.0 for optimal maize growth
+	+ Monitor temperature and rainfall patterns to adjust irrigation schedules accordingly
+	+ Implement crop rotation to avoid nutrient depletion and pests buildup
+	+ Use integrated pest management techniques to minimize chemical usage
+
+Note: These suggestions are based on general guidelines and may vary depending on specific regional conditions and local expertise. It's always recommended to consult with a certified agronomist or extension services for more accurate advice tailored to your location.
+================================================================================
+
+Primary Crop: maize
+Input Conditions: {'N': '74', 'P': '55', 'K': '19', 'pH': '6.28886807', 'Rainfall': '84.23613484', 'Humidity': '62.89366992', 'Temperature': '18.05033737'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+* **Crop Selection**
+	+ Primary Crop: Maize (as per given conditions)
+	+ Secondary Crop: Soybean or Sunflower for rotation and soil health improvement
+* **Irrigation Method**: Drip Irrigation (DI) to reduce evaporation, save water, and prevent nutrient leaching
+* **Fertilizer Type & Dosage**
+	+ Nitrogen (N): Apply 120 kg/ha of Urea (46-0-0) at sowing time and 60 kg/ha after 30 days
+	+ Phosphorus (P): Apply 40 kg/ha of DAP (18-46-0) at sowing time
+	+ Potassium (K): Apply 60 kg/ha of Muriate of Potash (0-0-60) after 30 days
+* **Essential Care Tips**
+	+ Maintain optimal pH between 6.0 and 7.0
+	+ Monitor soil moisture, avoid waterlogging to prevent root rot
+	+ Use cover crops or mulch to control weeds and retain moisture
+================================================================================
+
+Primary Crop: chickpea
+Input Conditions: {'N': '29', 'P': '75', 'K': '75', 'pH': '7.064790365', 'Rainfall': '88.4585692', 'Humidity': '18.71483156', 'Temperature': '19.62416326'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+### Primary Crop
+- **Crop:** Chickpea
+
+### Secondary Crop
+- **Secondary Crop:** Oats
+
+Oats are a good companion crop for chickpeas, as they help to break disease cycles and improve soil health.
+
+### Best Irrigation Method
+- **Irrigation Method:** Drip Irrigation
+Drip irrigation is suitable for this weather condition (high rainfall) to prevent waterlogging and ensure efficient use of water resources.
+
+### Fertilizer Type & Dosage
+- **Fertilizer Type:** Nitrogen-Phosphorus-Potassium (NPK) 15-15-15
+Given the nitrogen level in the soil is below average, an NPK fertilizer with balanced nutrients will be beneficial for chickpea growth.
+- **Dosage:** Apply 5 kg/ha of NPK fertilizer at sowing and another 2.5 kg/ha after 30 days.
+
+### Essential Care Tips
+
+- **Soil pH Level:** Monitor the soil pH level regularly, as a slight decrease in pH can be beneficial for chickpea growth.
+- **Rainfall Management:** Ensure proper drainage to prevent waterlogging and ensure efficient use of rainfall.
+- **Pest & Disease Management:** Regularly monitor for pests (e.g., aphids) and diseases (e.g., powdery mildew) and take necessary measures to control them.
+- **Temperature Tolerance:** Monitor temperature fluctuations; chickpeas can tolerate a wide range of temperatures, but extreme heat or cold may affect growth.
+================================================================================
+
+Primary Crop: chickpea
+Input Conditions: {'N': '28', 'P': '58', 'K': '81', 'pH': '6.18042747', 'Rainfall': '93.35034262', 'Humidity': '16.54314829', 'Temperature': '17.47500984'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+* **Secondary Crop:** Alfalfa (companion planting helps with pest control and improves soil health)
+* **Best Irrigation Method:** Drip Irrigation (efficient water use, reduces evaporation and runoff)
+* **Fertilizer Type & Dosage:**
+	+ Nitrogen: Apply 10-15 kg/ha of Ammonium Sulphate fertilizer to meet the nitrogen requirement
+	+ Phosphorus: Use 5-7 kg/ha of Di-Ammonium Phosphate (DAP) fertilizer to provide sufficient phosphorus
+	+ Potassium: Apply 15-20 kg/ha of Muriate of Potash (MOP) fertilizer for potassium supplementation
+* **Essential Care Tips:**
+	+ Monitor pH level and adjust as necessary (target range: 6.0-7.0)
+	+ Maintain adequate moisture levels, ensuring soil temperature above 10°C for chickpea germination
+	+ Control weeds promptly to prevent competition for nutrients and water
+	+ Regularly inspect for pests like aphids, whiteflies, and spider mites
+
+**Note:** These suggestions are based on general best practices and may vary depending on specific regional conditions. It is recommended to consult local agricultural experts or conduct further research before implementing these recommendations.
+================================================================================
+
+Primary Crop: chickpea
+Input Conditions: {'N': '22', 'P': '78', 'K': '76', 'pH': '8.621662982', 'Rainfall': '76.32470713', 'Humidity': '19.09172907', 'Temperature': '17.84851658'}
+LLaMA Suggestions:
+Based on the provided input features, I've generated structured farming suggestions for a chickpea crop.
+
+### Farming Suggestions ###
+
+#### Primary Crop: Chickpea
+
+* **Crop Yield:** High yield expected due to optimal rainfall and temperature conditions.
+* **Growth Rate:** Medium growth rate anticipated due to moderate humidity levels.
+
+#### Secondary Crop:
+* **Soybean**: Recommended as a secondary crop for intercropping, which can improve soil fertility and reduce pests.
+
+#### Best Irrigation Method:
+* **Drip Irrigation**: Suitable for chickpea cultivation in this region with low rainfall. Drip irrigation will minimize water loss through evaporation and runoff.
+
+#### Fertilizer Type & Dosage:
+
+*   **NPK Fertilizer (20-20-15)**: Apply 200 kg/ha N, 200 kg/ha P2O5, 150 kg/ha K2O.
+*   **Potassium Chloride (KCl) Supplement**: Add 100 kg/ha to address potassium deficiency.
+
+#### Essential Care Tips:
+
+*   **Monitoring pH Levels:** Regularly check and adjust the soil pH level between 6.0 and 7.5 for optimal chickpea growth.
+*   **Integrated Pest Management (IPM):** Implement IPM strategies to control pests like aphids, whiteflies, and spider mites that are common in chickpea cultivation.
+*   **Crop Rotation:** Consider crop rotation with legumes or cereals to maintain soil health and reduce the risk of pests and diseases.
+
+Note: These suggestions are based on general guidelines. Farmers should consult local experts and conduct site-specific experiments for more accurate results.
+================================================================================
+
+Primary Crop: chickpea
+Input Conditions: {'N': '36', 'P': '67', 'K': '77', 'pH': '7.152811172000001', 'Rainfall': '79.26357665', 'Humidity': '19.56381041', 'Temperature': '18.36952567'}
+LLaMA Suggestions:
+Based on the provided soil and weather conditions, here are the farming suggestions:
+
+**Crop Selection**
+
+* Primary Crop: Chickpea (as suggested)
+* Secondary Crop: **Maize** (to utilize the chickpea crop's byproduct as a green manure for maize)
+
+**Irrigation Method**
+
+* Best Irrigation Method: **Drip Irrigation** (efficient water usage, reduces soil erosion and nutrient loss)
+
+**Fertilizer Type & Dosage**
+
+* Fertilizer Type: Balanced NPK (Nitrogen-Phosphorus-Potassium) Fertilizer
+* Nitrogen (N): 120 kg/ha (supplemental application)
+* Phosphorus (P): 80 kg/ha (phosphatic fertilizer for improved root development)
+* Potassium (K): 100 kg/ha (potash for overall plant health)
+
+**Essential Care Tips**
+
+* **Soil pH Management**: Maintain optimal pH between 6.5 and 7.2
+* **Crop Rotation**: Rotate chickpea with maize every 3-4 years to improve soil fertility and reduce pests/diseases
+* **Integrated Pest Management (IPM)**: Implement IPM practices to control insect-pests, weeds, and diseases
+
+**Additional Considerations**
+
+* Chickpea being a legume will help fix atmospheric nitrogen, thus reducing the need for supplemental N-fertilizers.
+* Rainfall of 79.26 mm is relatively low; supplemental irrigation might be required during critical growth stages.
+* Temperature of 18.37°C is suitable for chickpea growth but may require protection from frost and extreme temperature fluctuations.
+
+These suggestions are based on general best practices and may vary depending on specific regional conditions, soil type, and farmer's experience.
+================================================================================
+
+Primary Crop: chickpea
+Input Conditions: {'N': '30', 'P': '75', 'K': '81', 'pH': '6.4084378860000015', 'Rainfall': '68.4951189', 'Humidity': '16.80472243', 'Temperature': '19.41789736'}
+LLaMA Suggestions:
+**Farming Suggestions for Chickpea Cultivation**
+
+* **Crop Selection**: Primary Crop: Chickpea, Secondary Crop: Oats or Barley (for rotation and soil improvement)
+* **Irrigation Method**: Surface Irrigation with a frequency of 2-3 times a week, depending on the rainfall data.
+	+ Reasoning: Chickpeas require moderate watering, especially during germination and flowering stages. Surface irrigation helps maintain soil moisture while preventing overwatering.
+* **Fertilizer Type & Dosage**:
+	+ Nitrogen (N): Apply Ammonium Sulfate at 150 ppm for the first application after 20 days of sowing, followed by another 100 ppm application 30 days later. 
+	+ Phosphorus (P): Use Single Super Phosphate at 75 ppm as per current levels to support early growth.
+	+ Potassium (K): Potassium Chloride can be applied at 81 ppm to meet the crop's needs for strong plant structure and resistance to diseases.
+* **Essential Care Tips**:
+	+ Sow seeds when temperature is between 18°C - 22°C, ensuring optimal germination rates.
+	+ Maintain adequate humidity levels (around 60%) during flowering to ensure good pollination.
+	+ Monitor soil pH regularly; maintain a slightly acidic pH for optimal growth.
+================================================================================
+
+Primary Crop: kidneybeans
+Input Conditions: {'N': '7', 'P': '79', 'K': '23', 'pH': '5.821649914', 'Rainfall': '96.65888933', 'Humidity': '19.68751084', 'Temperature': '19.6365349'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+* **Secondary Crop:** Peas, as they have similar growing requirements and can benefit from the soil conditions.
+* **Best Irrigation Method:** Drip irrigation to conserve water and reduce evaporation losses due to rainfall is 96.66 mm which is relatively high for kidneybeans growth.
+* **Fertilizer Type & Dosage:**
+	+ Nitrogen (N): Apply 150 kg/ha of ammonium sulfate as the soil nitrogen level is low at 7 ppm.
+	+ Phosphorus (P2O5): No application required due to sufficient phosphorus availability in the soil at 79 ppm.
+	+ Potassium (K2O): Apply 120 kg/ha of potassium chloride to meet potassium requirements.
+* **Essential Care Tips:**
+	+ Maintain a pH level between 6.0 and 7.0 for optimal kidneybean growth. Lime application may be necessary to adjust the pH level if required.
+	+ Monitor soil moisture regularly, especially during hot weather, to prevent water stress.
+	+ Control weeds and pests promptly to prevent damage to the crop.
+
+**Crop-specific considerations:**
+
+* Kidneybeans are sensitive to extreme temperatures. Maintain temperature below 28°C for optimal growth.
+* Regularly monitor humidity levels and control pests that thrive in humid environments.
+
+Note: These suggestions are based on the provided input features and general agricultural practices. For specific advice, consult a local agriculture expert or relevant authority.
+================================================================================
+
+Primary Crop: kidneybeans
+Input Conditions: {'N': '25', 'P': '60', 'K': '22', 'pH': '5.887263027', 'Rainfall': '134.3649948', 'Humidity': '21.17919701', 'Temperature': '21.63149148'}
+LLaMA Suggestions:
+Here are the farming suggestions for the given conditions:
+
+**Crop Selection**
+| **Crop Name** | **Type** |
+| --- | --- |
+| Primary: Kidney Beans | Legume |
+
+**Secondary Crop Suggestions (considering the primary crop and soil conditions)**
+| **Crop Name** | **Type** |
+| --- | --- |
+| Secondary 1: Alfalfa | Forage Crop |
+
+**Soil Fertility Management**
+
+*   Fertilizer Type & Dosage:
+    *   Nitrogen: Apply DAP fertilizer (46-0-0 NPK) at 120 kg/ha
+    *   Phosphorus: Apply SSP fertilizer (45% P2O5) at 80 kg/ha
+    *   Potassium: Apply MOP fertilizer (0-52-34 K2O) at 100 kg/ha
+
+**Irrigation Management**
+
+*   Best Irrigation Method:
+    *   Drip Irrigation for optimal water use and nutrient delivery
+
+**Essential Care Tips**
+
+*   Crop rotation with Alfalfa to improve soil fertility
+*   Soil pH adjustment (aim for 6.5) using lime if necessary
+*   Regular monitoring of nitrogen, phosphorus, and potassium levels
+================================================================================
+
+Primary Crop: kidneybeans
+Input Conditions: {'N': '8', 'P': '72', 'K': '17', 'pH': '5.711439256', 'Rainfall': '87.87869161', 'Humidity': '19.7520218', 'Temperature': '20.57341244'}
+LLaMA Suggestions:
+**Farming Suggestions for Kidney Beans**
+
+* **Crop Rotation**: Alfalfa (to enhance soil fertility and reduce pests)
+* **Best Irrigation Method**: Drip irrigation (efficient water usage, reduced evaporation)
+* **Fertilizer Type & Dosage**:
+	+ NPK (Nitrogen-Phosphorus-Potassium) fertilizer: 20-10-5
+	+ Apply at sowing time: 50 kg/ha
+	+ Side dressing after 15 days of planting: 25 kg/ha
+* **Essential Care Tips**:
+	+ Soil pH adjustment: Add lime to raise the pH level to 6.0-7.0 (current pH: 5.711)
+	+ Monitoring:
+		- Nitrogen and phosphorus levels: Maintain N:P ratio of 15:1
+		- Moisture stress management: Monitor rainfall and humidity levels; irrigate as needed
+
+**Additional Recommendations**:
+
+* **Pest Management**: Regularly monitor for pests like aphids, whiteflies, and spider mites. Use integrated pest management techniques (IPM) to minimize chemical usage.
+* **Disease Prevention**: Practice crop rotation, maintain good sanitation, and use resistant varieties to prevent diseases like powdery mildew and root rot.
+
+**Weather-Related Considerations**:
+
+* High rainfall (87.87869161 mm): Ensure proper drainage to avoid waterlogging and root rot.
+* Low humidity (19.7520218%): Monitor for drought stress; irrigate as needed to maintain optimal moisture levels.
+================================================================================
+
+Primary Crop: kidneybeans
+Input Conditions: {'N': '11', 'P': '78', 'K': '22', 'pH': '5.940546818', 'Rainfall': '112.6616435', 'Humidity': '22.74378977', 'Temperature': '23.89756791'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+* **Crop Selection**
+	+ Primary Crop: Kidney Beans (Satisfies nitrogen requirements)
+	+ Secondary Crop: Radish (Improves soil health and structure)
+* **Best Irrigation Method**: Drip Irrigation (Efficient water use, reduces evaporation)
+* **Fertilizer Type & Dosage**:
+	+ Nitrogen: 15-20 ppm (based on current levels)
+	+ Phosphorus: Maintain at 78 ppm
+	+ Potassium: Sulfate of Potash (22% K) @ 10 kg/ha (for increased potassium availability)
+* **Essential Care Tips**
+	+ Monitor pH levels, adjust to ideal range (6.0-7.0) if necessary
+	+ Maintain humidity above 20% for optimal growth
+	+ Adequate rainfall: no additional irrigation needed; excess rainwater management recommended
+================================================================================
+
+Primary Crop: kidneybeans
+Input Conditions: {'N': '27', 'P': '80', 'K': '15', 'pH': '5.7883869510000014', 'Rainfall': '86.21917578', 'Humidity': '21.21092266', 'Temperature': '19.07096165'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+### Primary Crop: Kidney Beans
+
+#### Soil Analysis
+
+* Nitrogen (N): 27 ppm (Moderate)
+* Phosphorus (P): 80 ppm (High)
+* Potassium (K): 15 ppm (Low)
+
+#### Weather Conditions
+
+* pH Level: 5.79 (Slightly Acidic)
+* Rainfall: 86.22 mm (Above Average)
+* Humidity: 21.21% (Moderate)
+* Temperature: 19.07°C (Moderate)
+
+### Recommendations
+
+#### Secondary Crop:
+
+* Tomatoes (compatible with kidney beans and can help improve soil health)
+
+#### Best Irrigation Method:
+
+* Drip Irrigation (efficient water usage, reduces evaporation and runoff)
+
+#### Fertilizer Type & Dosage:
+
+* Balanced fertilizer (10-10-10 NPK)
+	+ Nitrogen: 15 kg/ha
+	+ Phosphorus: 12 kg/ha
+	+ Potassium: 7.5 kg/ha
+
+#### Essential Care Tips:
+
+* Soil pH management: apply lime to adjust soil pH to 6.0-6.8 for optimal kidney bean growth
+* Nutrient monitoring: regular check-ups on nitrogen, phosphorus, and potassium levels to avoid deficiencies
+* Pest management: monitor for whiteflies, aphids, and spider mites, use integrated pest management (IPM) techniques when necessary
+================================================================================
+
+Primary Crop: pigeonpeas
+Input Conditions: {'N': '36', 'P': '67', 'K': '25', 'pH': '6.418062652000001', 'Rainfall': '136.0456753', 'Humidity': '36.52780776', 'Temperature': '35.95176642'}
+LLaMA Suggestions:
+Based on the given soil and weather conditions, here are the structured farming suggestions:
+
+**Crop Selection**
+- Primary Crop: Pigeonpeas (already selected)
+- Secondary Crop: Redgram or Groundnut for intercropping to enhance nitrogen fixation and reduce pest pressure.
+
+**Irrigation Method**
+- Best Irrigation Method: Drip irrigation to conserve water and reduce soil erosion, especially with 136.0456753 mm of rainfall recorded.
+
+**Fertilizer Selection & Dosage**
+- Fertilizer Type:
+	+ Nitrogen (N): Urea or Ammonium Sulphate at a rate of 50 kg/ha.
+	+ Phosphorus (P): DAP (Di-Ammonium Phosphate) at a rate of 40 kg/ha for its water-soluble form that promotes early growth stages.
+	+ Potassium (K): Muriate of Potash at a rate of 30 kg/ha to maintain potassium levels in the soil.
+
+**pH Level Adjustments**
+- pH Adjustment: Lime application may be considered since the current pH level is slightly acidic (6.418062652000001), which could affect nutrient availability and crop growth.
+
+**Essential Care Tips**
+
+* Monitor humidity closely as pigeonpeas are sensitive to moisture stress; reduce irrigation if humidity levels drop below 30%.
+* Regularly inspect the farm for signs of pests and diseases, especially whiteflies, thrips, and powdery mildew which can be prevalent at high temperatures.
+* Apply neem cake or neem oil-based insecticides as part of integrated pest management to minimize chemical usage.
+* Fertilizers should be applied based on soil test reports and not on standard doses, ensuring no over-fertilization.
+* Maintain crop rotation practices to prevent soil nutrient depletion and enhance biodiversity.
+
+**Other Considerations**
+- Given the high temperature (35.95176642°C), ensure there is adequate moisture in the root zone to avoid moisture stress effects on pigeonpeas.
+
+These suggestions are based on general agricultural practices and might require site-specific adjustments according to local conditions, soil test reports, and pest/disease prevalence.
+================================================================================
+
+Primary Crop: pigeonpeas
+Input Conditions: {'N': '38', 'P': '55', 'K': '19', 'pH': '5.864623352000001', 'Rainfall': '198.8298806', 'Humidity': '38.23184742', 'Temperature': '33.18184225'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+* **Primary Crop**: Pigeonpeas
+* **Secondary Crop**: Green gram (for crop rotation and nutrient balance)
+* **Best Irrigation Method**:
+	+ Frequency: 4 days (based on rainfall of 198.83 mm, which is sufficient for the crop)
+	+ Method: Drip irrigation to conserve water and reduce soil erosion
+* **Fertilizer Type & Dosage**:
+	+ Nitrogen: Apply 30-40 kg/ha of urea (46% N) at sowing time and 20-30 kg/ha at flowering stage
+	+ Phosphorus: Apply 40-50 kg/ha of single super phosphate (16% P2O5) at sowing time
+	+ Potassium: Apply 60-80 kg/ha of muriate of potash (50% K2O) at sowing time and 30-40 kg/ha at flowering stage
+* **Essential Care Tips**:
+	+ Maintain soil pH between 6.0-7.0 by applying lime or gypsum as required
+	+ Monitor for pests like thrips, whiteflies, and jassids, and apply neem-based pesticides if necessary
+	+ Provide support to the plants using sticks or trellis to promote better growth and yield
+
+Note: The fertilizer dosages are general recommendations and may vary depending on specific soil conditions and crop requirements. It is always best to consult with a local agricultural expert for more accurate advice.
+================================================================================
+
+Primary Crop: pigeonpeas
+Input Conditions: {'N': '5', 'P': '77', 'K': '19', 'pH': '6.242052013', 'Rainfall': '175.9303271', 'Humidity': '66.68832981', 'Temperature': '31.08564994'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+* **Primary Crop**: Pigeonpea
+* **Secondary Crop**: Soybean (to complement pigeonpeas and improve soil fertility)
+* **Best Irrigation Method**: Drip irrigation (efficient use of water, reducing evaporation and runoff)
+* **Fertilizer Type & Dosage**:
+	+ Nitrogen: Apply 20 kg/ha of Urea as a top dressing after the first flush
+	+ Phosphorus: Apply 50 kg/ha of DAP (Di-Ammonium Phosphate) at sowing time
+	+ Potassium: Apply 30 kg/ha of MOP (Muriate of Potash) at sowing time
+* **Essential Care Tips**:
+	+ Crop rotation is essential for pigeonpea and soybean, to avoid depleting the soil's nutrient reserves.
+	+ Maintain a pH range between 6.0-7.0 to ensure optimal nutrient availability.
+	+ Monitor temperature and adjust irrigation accordingly to prevent waterlogged conditions.
+
+These suggestions are based on the provided input features:
+
+* Nitrogen level is sufficient for pigeonpea growth, but additional nitrogen application is recommended for optimal yield.
+* Phosphorus and potassium levels are below the critical limits; DAP and MOP applications will help replenish these nutrients.
+* pH level is slightly acidic, which is suitable for pigeonpeas. However, maintaining a near-neutral pH will promote overall plant health.
+
+By following these suggestions, you can optimize your farming practices and achieve better crop yields while minimizing environmental impact.
+================================================================================
+
+Primary Crop: pigeonpeas
+Input Conditions: {'N': '27', 'P': '57', 'K': '24', 'pH': '6.09186275', 'Rainfall': '142.33036769999995', 'Humidity': '43.35795962', 'Temperature': '27.33534897'}
+LLaMA Suggestions:
+Based on the given soil and weather conditions, here are some structured farming suggestions:
+
+**Crop Selection**
+* Primary Crop: Pigeonpeas
+* Secondary Crop: Green grams or cowpeas (to improve soil fertility and reduce pests)
+
+**Irrigation Method**
+* Best Irrigation Method: Drip irrigation (to conserve water and prevent erosion)
+* Water Requirement: 1200-1500 mm per year (considering rainfall of 142.33 mm)
+
+**Fertilizer Application**
+* Fertilizer Type:
+	+ Nitrogen: Urea (46-0-0) - 200 kg/ha
+	+ Phosphorus: DAP (18-46-0) - 150 kg/ha
+	+ Potassium: Muriate of potash (0-0-60) - 100 kg/ha
+* Timing: Apply fertilizers before sowing and at flowering stage
+
+**Essential Care Tips**
+
+* Monitor soil moisture to avoid waterlogging
+* Maintain a pH range of 6.0-7.0 for optimal pigeonpea growth
+* Control weeds biologically using mulching or mechanical methods
+* Regularly inspect the crop for pests like pod borers and aphids
+* Provide adequate support for the plants as they grow
+
+**Additional Tips**
+
+* Use a cover crop like sunhemp to improve soil health before sowing pigeonpeas
+* Rotate crops every 2-3 years to maintain soil fertility and reduce pest buildup
+================================================================================
+
+Primary Crop: pigeonpeas
+Input Conditions: {'N': '28', 'P': '75', 'K': '21', 'pH': '6.007508163', 'Rainfall': '114.2821387', 'Humidity': '50.54621094', 'Temperature': '24.7741949'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+* **Primary Crop:** Pigeonpeas
+* **Secondary Crop:** Cowpeas (complements pigeonpeas well in terms of growth requirements and market demand)
+* **Best Irrigation Method:** Drip Irrigation (efficient use of water, reduces evaporation, and minimizes runoff)
+* **Fertilizer Type & Dosage:**
+	+ Nitrogen: 120 ppm (due to low initial nitrogen level, additional application will promote better leaf growth and fruiting)
+	+ Phosphorus: maintain at 75 ppm (sufficient for pigeonpeas growth but consider adding a phosphorus-rich fertilizer in late stages for enhanced root development)
+	+ Potassium: maintain at 21 ppm (adequate for this crop but monitoring is necessary to prevent potassium deficiency symptoms)
+* **Essential Care Tips:**
+	+ Monitor soil temperature and ensure it's above 20°C for optimal seed germination
+	+ Apply mulch around the plants to retain moisture, suppress weeds, and regulate soil temperature
+	+ Maintain a humidity level between 40-70% to prevent water stress during hot periods
+	+ Consider using integrated pest management (IPM) strategies to minimize chemical usage
+
+**Additional Recommendations:**
+
+* Soil pH is slightly acidic, which is suitable for pigeonpeas. However, monitoring and adjustments might be necessary based on future soil test results.
+* Given the moderate rainfall, ensure adequate drainage and consider installing a drip irrigation system to efficiently deliver water directly to the roots of the plants.
+
+These suggestions aim at optimizing growth conditions for pigeonpeas while considering the secondary crop's compatibility and synergies. Regular monitoring is crucial to adjust these recommendations based on actual field observations and test results.
+================================================================================
+
+Primary Crop: mothbeans
+Input Conditions: {'N': '25', 'P': '57', 'K': '24', 'pH': '6.974978386', 'Rainfall': '36.94255012', 'Humidity': '58.59986279', 'Temperature': '27.65472156'}
+LLaMA Suggestions:
+**Farming Suggestions for Mothbeans**
+
+### Primary Crop Details
+
+* Crop Name: Mothbeans (Vigna aconitifolia)
+* Optimal pH Range: 6.0 - 7.0, matches the given pH level of 6.974978386
+
+### Secondary Crop
+
+* Recommended secondary crop: Lentil or Chana Dal to promote nitrogen fixation and improve soil health
+
+### Best Irrigation Method
+
+* Drip irrigation for efficient water distribution and reduced evaporation losses
+* Water requirement: 30-40 mm per week, considering the rainfall of 36.94255012 mm
+
+### Fertilizer Type & Dosage
+
+* Nitrogen (N): Top dressing with 20 kg/ha Urea (46% N) to match the required nitrogen level of 25 ppm
+* Phosphorus (P): Apply 30 kg/ha DAP (Di-Ammonium Phosphate, 18-46-0) to increase phosphorus levels to 57 ppm
+* Potassium (K): Use Muriate of Potash (MOP) at a rate of 15 kg/ha to boost potassium levels to 24 ppm
+
+### Essential Care Tips
+
+* Plant mothbeans in well-draining soil and full sun exposure
+* Maintain a humidity level between 50-70% for optimal growth
+* Monitor temperature and ensure it remains between 20-30°C during the critical growth stages
+* Avoid over-watering, which can lead to root rot and other diseases
+================================================================================
+
+Primary Crop: mothbeans
+Input Conditions: {'N': '27', 'P': '59', 'K': '20', 'pH': '4.397698806', 'Rainfall': '36.01203025', 'Humidity': '52.60950014', 'Temperature': '28.00937423'}
+LLaMA Suggestions:
+**Farming Suggestions for Mothbeans**
+
+* **Secondary Crop:** Bajra (Pearl Millet) - suitable for intercropping with mothbeans, promoting soil health and reducing pests/diseases.
+* **Best Irrigation Method:**
+	+ Watering Schedule: 3-4 times a week, considering rainfall of 36 mm
+	+ Drip Irrigation System: efficient water distribution, reducing evaporation and runoff
+* **Fertilizer Type & Dosage:**
+	+ Nitrogen: 30 kg/ha (120 ppm) - to meet nitrogen demand for mothbeans growth
+	+ Phosphorus: 20 kg/ha (80 ppm) - to promote root development and overall plant health
+	+ Potassium: 15 kg/ha (60 ppm) - to enhance resistance to diseases and pests
+* **Essential Care Tips:**
+	+ Maintain pH level between 5.5-6.5 for optimal growth
+	+ Monitor temperature fluctuations, keeping it between 20-30°C
+	+ Regularly check humidity levels to prevent water-borne diseases
+================================================================================
+
+Primary Crop: mothbeans
+Input Conditions: {'N': '35', 'P': '51', 'K': '17', 'pH': '3.558822825', 'Rainfall': '40.85534718', 'Humidity': '49.84213387', 'Temperature': '28.79929247'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+### Primary Crop: Moth Beans
+
+#### Soil Conditions
+
+| **Nutrient** | **ppm** |
+| --- | --- |
+| Nitrogen (N) | 35 ppm |
+| Phosphorus (P) | 51 ppm |
+| Potassium (K) | 17 ppm |
+
+#### Weather Conditions
+
+| **Parameter** | **Value** |
+| --- | --- |
+| pH Level | 3.558822825 |
+| Rainfall (mm) | 40.85534718 mm |
+| Humidity (%) | 49.84213387% |
+| Temperature (°C) | 28.79929247°C |
+
+#### Suggestions
+
+*   **Secondary Crop:** Carrots, which are easy to grow and require minimal care.
+*   **Best Irrigation Method:** Drip irrigation to conserve water and prevent soil erosion.
+*   **Fertilizer Type & Dosage:**
+    *   Apply 10 kg/acre of ammonium sulphate (21-0-0) as a side-dressing at the flowering stage.
+    *   Use 5 kg/acre of single super phosphate (16-20-0) before sowing for phosphorus supply.
+*   **Essential Care Tips:**
+    *   Maintain soil pH between 6.0 and 7.0 for optimal growth.
+    *   Water regularly, but avoid overwatering to prevent root rot.
+    *   Control weeds manually or with herbicides to promote healthy growth.
+
+These suggestions are based on the given input features and may need adjustments according to specific regional conditions and farming practices. Always consult local agricultural experts before implementing new techniques or products.
+================================================================================
+
+Primary Crop: mothbeans
+Input Conditions: {'N': '21', 'P': '38', 'K': '20', 'pH': '5.794289715', 'Rainfall': '62.20279647', 'Humidity': '63.56791363', 'Temperature': '27.10508014'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+**Crop Selection**
+* Primary Crop: Mothbeans (suitable for the given soil and weather conditions)
+* Secondary Crop: Spinach or Carrots (complementary crops that can thrive alongside Mothbeans)
+
+**Irrigation Method**
+* Best Irrigation Method: Drip Irrigation (efficient use of water, reduces evaporation and runoff)
+
+**Fertilizer Type & Dosage**
+
+| Nutrient | Recommended Fertilizer | Dosage (kg/acre) |
+| --- | --- | --- |
+| Nitrogen | Urea | 120-150 |
+| Phosphorus | DAP (Di-Ammonium Phosphate) | 80-100 |
+| Potassium | Muriate of Potash | 60-80 |
+
+**Essential Care Tips**
+
+* Monitor pH level and adjust if necessary to maintain optimal range (6.0-7.0)
+* Apply fertilizer as recommended, taking into account the crop's nutrient requirements
+* Implement Integrated Pest Management (IPM) strategies to minimize chemical usage
+* Maintain humidity levels between 50-70% for Mothbeans growth
+
+**Additional Considerations**
+
+* Rainfall: Given rainfall is sufficient for Mothbeans cultivation. Monitor soil moisture regularly.
+* Temperature: Optimal temperature range for Mothbeans is 20-30°C, which aligns with the given temperature.
+
+Note: These suggestions are based on general best practices and may need to be adjusted according to specific regional or local conditions.
+================================================================================
+
+Primary Crop: mothbeans
+Input Conditions: {'N': '3', 'P': '58', 'K': '21', 'pH': '9.160691747000001', 'Rainfall': '55.60523179', 'Humidity': '46.82652785', 'Temperature': '25.36140526'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+### Primary Crop Information
+* **Crop Name**: Mothbeans (Vigna aconitifolia)
+* **Suitability**: Well-suited for alkaline soils with a pH level of 9.16, commonly grown in Indian agriculture.
+
+### Secondary Crop Recommendation
+* **Secondary Crop**: Green gram or Chickpeas can be intercropped to optimize resource utilization and reduce pests and diseases.
+
+### Best Irrigation Method
+* **Method**: Drip Irrigation (DI) is recommended to conserve water and prevent soil erosion, especially with the given rainfall of 55.605 mm.
+
+### Fertilizer Type & Dosage
+* **Nitrogen**: Apply a nitrogen-based fertilizer with a dosage of 120-150 kg/ha.
+* **Phosphorus**: Use diammonium phosphate (DAP) or single super phosphate (SSP) at a rate of 60-80 kg/ha for phosphorus application.
+* **Potassium**: Potash (KCl or K2SO4) dosage can be adjusted based on soil test results, but as a general guideline, apply about 50-70 kg/ha.
+
+### Essential Care Tips
+* **Temperature and Rainfall Tolerance**: Mothbeans are generally adapted to temperatures between 20°C to 30°C. The rainfall of 55.605 mm is within an acceptable range.
+* **Soil pH Adjustment**: For the slightly alkaline soil, a small amount of elemental sulfur can be applied to bring the pH closer to optimal levels if required, but only after consulting with agricultural experts due to its complex application and potential risks.
+* **Crop Rotation**: Rotate crops every 4-5 seasons to avoid depleting soil nutrients and promoting pest and disease buildup.
+
+### Additional Recommendations
+- Monitor humidity closely as mothbeans are sensitive to high humidity which can lead to diseases.
+- Use crop-specific pesticides or biological control methods for pests rather than broad-spectrum chemicals to maintain ecosystem balance.
+================================================================================
+
+Primary Crop: mungbean
+Input Conditions: {'N': '9', 'P': '35', 'K': '20', 'pH': '6.91380932', 'Rainfall': '40.53173216', 'Humidity': '80.98004661', 'Temperature': '27.41503453'}
+LLaMA Suggestions:
+Based on the given soil and weather conditions, here are the farming suggestions for mungbean cultivation:
+
+**Primary Crop**: mungbean
+
+**Secondary Crop**:
+* Complementary crop: cowpea (to fix nitrogen and reduce weed growth)
+	+ Cowpea is a leguminous crop that can fix atmospheric nitrogen, thereby reducing the need for synthetic fertilizers.
+	+ It also has a similar growing period to mungbean, allowing for efficient use of resources.
+
+**Best Irrigation Method**:
+* **Drip Irrigation**: to conserve water and reduce soil erosion
+	+ Given the rainfall of 40.53173216 mm, drip irrigation will ensure that the water reaches the roots of the plants without wasting it on evaporation or runoff.
+	+ This method also reduces soil erosion by minimizing the number of times the soil is disturbed.
+
+**Fertilizer Type & Dosage**:
+* **Organic Fertilizers**: to promote sustainable and balanced nutrient supply
+	+ Given the nitrogen (9 ppm), phosphorus (35 ppm), and potassium (20 ppm) levels, a balanced fertilizer with NPK ratio of 15-15-15 will be applied.
+	+ The dosage is calculated based on the soil test results and recommended rates for mungbean cultivation:
+		- Nitrogen: 100 kg/ha
+		- Phosphorus: 80 kg/ha
+		- Potassium: 60 kg/ha
+
+**Essential Care Tips**:
+
+* **Crop Rotation**: to maintain soil fertility and reduce pests and diseases
+	+ Rotate mungbean with cowpea every two years to avoid depleting the soil of nutrients.
+* **Pest and Disease Management**: to minimize losses due to pests and diseases
+	+ Monitor the crop regularly for signs of pests (e.g., aphids, whiteflies) or diseases (e.g., powdery mildew).
+	+ Use integrated pest management techniques, such as introducing beneficial insects, practicing good hygiene, and using organic pesticides when necessary.
+* **Soil Aeration**: to improve soil structure and promote healthy root growth
+	+ Till the soil lightly after 20-25 days of sowing to improve aeration and reduce compaction.
+
+**Additional Recommendations**:
+
+* Monitor soil pH regularly and adjust fertilizers accordingly (pH level: 6.91380932).
+* Maintain humidity levels between 60-80% for optimal growth.
+* Ensure adequate temperature range (22-35°C) for mungbean cultivation.
+
+Note that these suggestions are based on the given data and may need to be adjusted according to specific local conditions and regional recommendations.
+================================================================================
+
+Primary Crop: mungbean
+Input Conditions: {'N': '31', 'P': '51', 'K': '25', 'pH': '7.196774236', 'Rainfall': '53.01899249', 'Humidity': '85.57019009999998', 'Temperature': '27.53592929'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+### Primary Crop: Mungbean
+
+#### Soil Analysis
+
+* Nitrogen: 31 ppm ( sufficient )
+* Phosphorus: 51 ppm ( adequate )
+* Potassium: 25 ppm ( deficient )
+
+#### Weather Conditions
+
+* Rainfall: 53.01899249 mm ( average )
+* Humidity: 85.57019009999998% ( high )
+* Temperature: 27.53592929°C ( suitable for mungbean growth )
+
+### Recommendations
+
+**Secondary Crop**: Soybean
+* Suitable companion crop to maintain soil health and provide shade for mungbean.
+
+**Best Irrigation Method**: Drip Irrigation
+* Efficient method to deliver water directly to the roots, reducing evaporation and runoff.
+
+**Fertilizer Type & Dosage**:
+
+* Nitrogen: 20 kg/ha ( urea or ammonium sulfate )
+* Phosphorus: 15 kg/ha ( diammonium phosphate )
+* Potassium: 10 kg/ha ( potassium chloride )
+
+**Essential Care Tips**
+
+* Maintain soil pH between 6.5 and 7.5.
+* Water mungbean when top 20 cm of soil feels dry to the touch.
+* Monitor for pests and diseases, especially whiteflies and powdery mildew.
+
+Note: These recommendations are based on general guidelines and may vary depending on specific regional conditions. It's always best to consult with local experts or conduct further research before implementing these suggestions.
+================================================================================
+
+Primary Crop: mungbean
+Input Conditions: {'N': '19', 'P': '39', 'K': '17', 'pH': '6.890156495', 'Rainfall': '44.47427436', 'Humidity': '81.8009244', 'Temperature': '29.2808618'}
+LLaMA Suggestions:
+Based on the given soil and weather conditions, here are the structured farming suggestions for mungbean:
+
+**Primary Crop:** Mungbean
+
+**Secondary Crop:**
+* Recommended secondary crop: Moong ( Green Gram )
+	+ Reason: Moong is a good rotational crop for mungbean as it uses similar resources and can help in weed control.
+
+**Best Irrigation Method:**
+* Surface Irrigation
+	+ Reason: Given the rainfall of 44.47427436 mm, surface irrigation will be effective to supplement the soil moisture, especially during hot temperatures.
+
+**Fertilizer Type & Dosage:**
+* Fertilizer type: NPK (Nitrogen-Phosphorus-Potassium)
+	+ Reason: The current nutrient levels are within acceptable ranges but a balanced fertilizer application is recommended.
+	+ Dosage:
+		- Nitrogen (N): 100 ppm
+		- Phosphorus (P): 50 ppm
+		- Potassium (K): 25 ppm
+
+**Essential Care Tips:**
+* Seed sowing depth: 1-2 cm
+* Water requirement: Maintain consistent soil moisture, especially during flowering and pod formation stages.
+* Temperature tolerance: Mungbean is relatively sensitive to temperature above 35°C. Implement measures to reduce heat stress like providing shade or implementing mulching techniques.
+
+**Additional Tips:**
+* Soil pH level is slightly acidic but within the acceptable range for mungbean growth.
+================================================================================
+
+Primary Crop: mungbean
+Input Conditions: {'N': '10', 'P': '56', 'K': '16', 'pH': '6.828187498999998', 'Rainfall': '36.35720652', 'Humidity': '81.04554836', 'Temperature': '28.17432665'}
+LLaMA Suggestions:
+Based on the given soil and weather conditions, here are some farming suggestions:
+
+**Farming Suggestions**
+
+* **Primary Crop:** mungbean
+* **Secondary Crop:** Rice or Wheat (suitable for rotation with mungbean)
+* **Best Irrigation Method:**
+	+ Type: Drip irrigation
+	+ Frequency: Water every 2-3 days to maintain soil moisture around 60-80%
+* **Fertilizer Type & Dosage:**
+	+ Nitrogen-rich fertilizer: Urea (10 kg/acre, 5 applications @ 2-week intervals)
+	+ Phosphorus-rich fertilizer: Di-ammonium phosphate (DAP) (50 kg/acre, 1 application at sowing)
+	+ Potassium-rich fertilizer: Murine of potash (KCl) (20 kg/acre, 3 applications @ 4-week intervals)
+* **Essential Care Tips:**
+	+ Monitor soil pH regularly and adjust as necessary to maintain optimal range for mungbean growth (6.0-7.0)
+	+ Maintain adequate rainfall or supplementary irrigation to support crop growth
+	+ Control weeds through regular mulching and hand-weeding to prevent competition for nutrients
+
+**Justification:**
+
+* Mungbean is suitable for the given soil conditions, with sufficient nitrogen and phosphorus levels.
+* Rice or wheat can be used as a secondary crop for rotation with mungbean, helping to break disease cycles and improve soil fertility.
+* Drip irrigation helps conserve water while maintaining optimal soil moisture for mungbean growth.
+* Fertilizer applications are based on the soil nutrient analysis, aiming to provide sufficient nutrients for crop growth without over-fertilization.
+* Regular monitoring of soil pH is crucial to prevent nutrient deficiencies or toxicity.
+================================================================================
+
+Primary Crop: mungbean
+Input Conditions: {'N': '6', 'P': '48', 'K': '24', 'pH': '6.790736339', 'Rainfall': '48.48319335', 'Humidity': '84.61431076', 'Temperature': '28.6362812'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+### Primary Crop: Mungbean
+
+* Soil Condition: Slightly acidic (pH 6.79)
+* Nutrient Availability:
+	+ Nitrogen: Deficient (6 ppm, optimal 20-30 ppm)
+	+ Phosphorus: Adequate (48 ppm, optimal 20-50 ppm)
+	+ Potassium: Adequate (24 ppm, optimal 20-40 ppm)
+
+### Secondary Crop
+Recommend planting a nitrogen-fixing legume like **Black Gram** (Urad bean) alongside Mungbean to supplement nitrogen levels.
+
+### Best Irrigation Method
+* **Drip Irrigation**: Suitable for Mungbean and Black Gram, as it delivers water directly to the roots, reducing evaporation and runoff.
+
+### Fertilizer Type & Dosage
+
+* Nitrogen: Apply 10-15 kg/ha of ammonium sulphate (20-25% N) to meet nitrogen requirements.
+* Phosphorus: Supplement with 5-7 kg/ha of Diammonium phosphate (18-46% P2O5) for phosphorus deficiencies.
+
+### Essential Care Tips
+
+* **Soil Mulching**: Apply a 2-3 inch layer of organic mulch (e.g., crop residue, compost) to retain moisture and suppress weeds.
+* **Pest Management**: Monitor regularly for pests like aphids, whiteflies, and spider mites, using Integrated Pest Management (IPM) techniques whenever possible.
+* **Water Harvesting**: Implement a rainwater harvesting system to collect excess rainfall (48.5 mm) and reduce irrigation water requirements.
+
+By following these suggestions, you can optimize your Mungbean crop's growth and productivity while minimizing environmental impact.
+================================================================================
+
+Primary Crop: blackgram
+Input Conditions: {'N': '57', 'P': '60', 'K': '17', 'pH': '7.504608385', 'Rainfall': '73.58663968', 'Humidity': '67.88521396', 'Temperature': '26.23773129'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+### Primary Crop Details
+- **Crop Name:** Blackgram
+- **Optimal pH Range:** 6.5 - 7.5 (matches given pH level)
+
+### Secondary Crop Suggestion
+- **Secondary Crop:** Green gram or Soybean (complementary crop for blackgram, helps in soil conservation and nutrient cycling)
+
+### Best Irrigation Method
+- **Irrigation Type:** Drip Irrigation
+- **Watering Frequency:** Every 3 days during summer and every 5 days during winter
+
+### Fertilizer Suggestion
+- **Fertilizer Type:** Balanced NPK (nitrogen-phosphorus-potassium) fertilizer, with focus on nitrogen for blackgram growth.
+- **Dosage:**
+  - Nitrogen (N): 50 kg/ha (to maintain soil fertility and promote plant growth)
+  - Phosphorus (P): 40 kg/ha (for root development and flower formation)
+  - Potassium (K): 30 kg/ha (for overall plant health and resistance to diseases)
+
+### Essential Care Tips
+- **Crop Rotation:** Practice crop rotation every season to maintain soil fertility.
+- **Mulching:** Apply organic mulch around plants to retain moisture and suppress weeds.
+- **Pest Management:** Monitor for pests regularly, using integrated pest management techniques when necessary.
+
+Note: These suggestions are based on general agricultural practices. Specific conditions may require adjustments or additional considerations.
+================================================================================
+
+Primary Crop: blackgram
+Input Conditions: {'N': '44', 'P': '58', 'K': '18', 'pH': '6.814410927999999', 'Rainfall': '72.49507741', 'Humidity': '65.06601664', 'Temperature': '28.03644051'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+### Primary Crop: Blackgram
+
+* Soil Suitability: 8/10 (pH level within optimal range)
+* Climate Suitability: 9/10 (temperature and rainfall suitable for growth)
+
+### Secondary Crop:
+
+* **Green gram**: Can be intercropped with blackgram to increase crop density and improve soil fertility.
+
+### Best Irrigation Method:
+
+* **Drip irrigation**: Ideal for blackgram, as it conserves water, reduces evaporation, and prevents nutrient leaching.
+
+### Fertilizer Type & Dosage:
+
+* **Nitrogenous fertilizer (Urea)**: Apply 20-25 kg/ha at sowing time.
+* **Phosphatic fertilizer (DAP)**: Apply 30-40 kg/ha at 15 days after sowing.
+* **Potassic fertilizer (MOP)**: Apply 50-60 kg/ha at 30 days after sowing.
+
+### Essential Care Tips:
+
+* **Soil aeration**: Ensure proper soil aeration to prevent waterlogging and root damage.
+* **Pest management**: Monitor for pests like aphids, whiteflies, and spider mites. Use neem oil or insecticidal soap as needed.
+* **Crop rotation**: Rotate blackgram with other legumes to maintain soil fertility and reduce pest buildup.
+
+### Additional Tips:
+
+* **Water harvesting**: Implement water harvesting techniques to conserve rainwater for irrigation during dry spells.
+* **Crop monitoring**: Regularly monitor crop growth, and adjust fertilizer application and irrigation schedule accordingly.
+================================================================================
+
+Primary Crop: blackgram
+Input Conditions: {'N': '21', 'P': '78', 'K': '19', 'pH': '6.92009048', 'Rainfall': '69.85112265', 'Humidity': '66.76017239', 'Temperature': '27.16159076'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+* **Crop Selection**
+	+ Primary Crop: Blackgram
+	+ Secondary Crop: Redgram (compatible with blackgram, can tolerate similar weather conditions)
+* **Irrigation Method**: Drip Irrigation (efficient use of water, reduced evaporation and runoff)
+* **Fertilizer**
+	+ Type: Balanced NPK Fertilizer (14-14-14)
+	+ Dosage:
+		- Nitrogen: 100 kg/ha
+		- Phosphorus: 50 kg/ha
+		- Potassium: 75 kg/ha
+* **Care Tips**
+	+ Soil pH adjustment not required (pH level is within the suitable range for blackgram)
+	+ Regular irrigation and adequate moisture levels essential for optimal growth
+	+ Monitor temperature and humidity to prevent heat stress and pest infestations
+================================================================================
+
+Primary Crop: blackgram
+Input Conditions: {'N': '42', 'P': '79', 'K': '23', 'pH': '6.781841984', 'Rainfall': '68.56507978', 'Humidity': '63.29103387', 'Temperature': '27.71678273'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+* **Primary Crop:** Blackgram
+* **Secondary Crop:** Moong or Green Gram (for rotation and soil health improvement)
+* **Best Irrigation Method:**
+	+ Frequency: 3-4 times a week
+	+ Duration: 30 minutes to 1 hour per session
+	+ Water requirement: 20-25 mm per irrigation cycle
+* **Fertilizer Type & Dosage:**
+	+ Nitrogen (N): 50 kg/ha as Urea (12.5% N)
+	+ Phosphorus (P2O5): 40 kg/ha as Di-Ammonium Phosphate (18-46-0)
+	+ Potassium (K2O): 30 kg/ha as Muriate of Potash (50% K2O)
+* **Essential Care Tips:**
+	+ Maintain pH level between 6.5 and 7.0
+	+ Monitor soil moisture regularly to avoid waterlogging
+	+ Control weeds and pests through integrated pest management techniques
+	+ Apply foliar spray with micronutrients like Zinc (Zn) and Boron (B) for better growth and yield
+
+Note: The above suggestions are based on the given input features. However, it is recommended to consult local agricultural experts or conduct soil testing for more accurate recommendations.
+================================================================================
+
+Primary Crop: blackgram
+Input Conditions: {'N': '58', 'P': '61', 'K': '15', 'pH': '7.402891666', 'Rainfall': '62.78730907', 'Humidity': '64.23364112', 'Temperature': '30.94908189'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+* **Primary Crop:** Blackgram
+* **Secondary Crop:** Moong
+	+ Companion planting benefits: improves soil health, reduces pests and diseases
+* **Best Irrigation Method:** Drip Irrigation
+	+ Reduces water loss due to evaporation and runoff
+	+ Ensures consistent moisture levels in the root zone
+* **Fertilizer Type & Dosage:**
+	+ Nitrogen: 50 kg/ha (urea)
+	+ Phosphorus: 30 kg/ha (diammonium phosphate)
+	+ Potassium: 20 kg/ha (potash muriate)
+	+ pH adjustment: lime application (if necessary) to maintain optimal pH range of 6.5-7.5 for blackgram
+* **Essential Care Tips:**
+	+ Maintain soil temperature between 25-35°C for optimal germination and growth
+	+ Monitor rainfall and adjust irrigation schedule accordingly
+	+ Control weeds regularly to prevent competition for water and nutrients
+	+ Implement integrated pest management (IPM) practices to minimize chemical usage
+
+**Note:** The fertilizer dosage is a general recommendation based on the provided soil analysis. Soil test results may vary depending on the specific location and conditions, so it's essential to perform regular soil tests for accurate recommendations.
+================================================================================
+
+Primary Crop: lentil
+Input Conditions: {'N': '26', 'P': '66', 'K': '22', 'pH': '6.300479414', 'Rainfall': '51.54922825', 'Humidity': '65.1034354', 'Temperature': '18.06486101'}
+LLaMA Suggestions:
+Based on the given soil and weather conditions, here are the farming suggestions:
+
+**Crop Selection**
+- Primary Crop: Lentil
+- Secondary Crop: Chickpea (Lentils and chickpeas have a symbiotic relationship and can be grown together)
+
+**Irrigation Method**
+- Best Irrigation Method: Drip Irrigation (efficient use of water, reduces runoff and soil erosion)
+
+**Fertilizer Type & Dosage**
+
+| Fertilizer | Dosage (kg/ha) |
+| --- | --- |
+| Urea (Nitrogen source) | 150 |
+| Di-Ammonium Phosphate (DAP, Phosphorus source) | 200 |
+| Potassium Chloride (Potassium source) | 100 |
+
+**Essential Care Tips**
+
+* Monitor soil pH regularly and adjust it if necessary to maintain a slightly acidic to neutral range (pH 6.0-7.0)
+* Apply fertilizers based on soil test results, as excessive fertilizer application can lead to environmental pollution
+* Implement crop rotation and intercropping practices to improve soil health and reduce pest and disease pressure
+* Regularly monitor temperature and humidity levels for optimal growth conditions
+* Consider incorporating green manure or cover crops between lentil and chickpea cycles to enhance soil fertility and structure
+================================================================================
+
+Primary Crop: lentil
+Input Conditions: {'N': '21', 'P': '63', 'K': '17', 'pH': '6.559681838', 'Rainfall': '41.45486619', 'Humidity': '68.17543102', 'Temperature': '25.08966129'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+* **Secondary Crop:** Chickpea (complementary crop for lentil)
+	+ Benefits: Improves soil health, enhances crop rotation, and reduces pests/diseases.
+* **Best Irrigation Method:** Drip irrigation
+	+ Advantages: Conserves water, reduces runoff, and promotes root growth.
+* **Fertilizer Type & Dosage:**
+	+ Nitrogen: 20-25 kg/ha (considering existing 21 ppm)
+	+ Phosphorus: 30-35 kg/ha (based on 63 ppm)
+	+ Potassium: 15-20 kg/ha (considering existing 17 ppm)
+* **Essential Care Tips:**
+	+ Maintain soil pH between 6.0 and 7.0 for optimal lentil growth.
+	+ Apply fertilizer according to the recommended dosages, considering soil test results.
+	+ Monitor rainfall and adjust irrigation schedules accordingly.
+	+ Keep humidity levels between 60-80% to prevent fungal diseases.
+	+ Temperature range of 20-30°C is suitable for lentil cultivation; ensure adequate ventilation during hot periods.
+
+**Weather-based Adjustments:**
+Given the rainfall of 41.45486619 mm, it's essential to adjust irrigation schedules to avoid overwatering. Consider applying a 10% reduction in fertilizer dosages due to existing nutrient levels.
+================================================================================
+
+Primary Crop: lentil
+Input Conditions: {'N': '13', 'P': '61', 'K': '24', 'pH': '7.629910252999999', 'Rainfall': '49.39111479', 'Humidity': '69.6897615', 'Temperature': '18.29783597'}
+LLaMA Suggestions:
+Here are the suggested farming strategies based on the input features:
+
+**Crop Selection**
+- Primary Crop: lentil
+- Secondary Crop: **Oats**, as they complement lentils and have similar growth requirements.
+
+**Soil Preparation**
+
+* Fertilizer Type & Dosage:
+  - Apply a balanced fertilizer (10-10-10 NPK) at a rate of 150 kg/ha to correct phosphorus deficiency.
+  - Add potassium sulfate at 100 kg/ha to enhance overall fertility and address potassium deficiency.
+
+**Irrigation Method**
+
+* Best Irrigation Method: **Drip Irrigation**, as it ensures efficient water use, minimizing evaporation losses and root zone dry-out risks due to the relatively high rainfall of 49.39 mm.
+
+**Essential Care Tips**
+
+* Maintain optimal pH level (around 6.5-7) by monitoring soil pH regularly.
+* Monitor soil moisture levels closely to prevent overwatering.
+* Apply a nitrogen-fixing bacteria-based inoculant at sowing to improve lentil yields in the presence of moderate N availability.
+* Implement crop rotation practices to maintain soil fertility and suppress pests and diseases.
+
+**Additional Considerations**
+
+- Monitor for potential waterlogging risks due to high humidity (69.69%) and rainfall, which might necessitate adjusting irrigation schedules.
+- Be prepared for potential pest outbreaks due to suitable temperature conditions for lentil growth (optimal range is 10°C - 30°C).
+
+These suggestions provide a comprehensive farming plan tailored to the specific soil and weather conditions provided.
+================================================================================
+
+Primary Crop: lentil
+Input Conditions: {'N': '16', 'P': '65', 'K': '19', 'pH': '7.043160241', 'Rainfall': '42.72374404', 'Humidity': '69.29786244', 'Temperature': '27.61204997'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+* **Primary Crop:** Lentil
+* **Secondary Crop:** Green gram (Chickpea)
+	+ Reason: Complementary crop that benefits from lentil's nitrogen-fixing properties and vice versa.
+* **Best Irrigation Method:** Drip irrigation with mulching
+	+ Reason: Optimizes water usage, reduces evaporation, and retains soil moisture.
+* **Fertilizer Type & Dosage:**
+	+ Nitrogen: 120 ppm (30% increase)
+	+ Phosphorus: 100 ppm (54% increase)
+	+ Potassium: 50 ppm (164% increase)
+	+ Reason: Lentil's high nitrogen demand and potassium requirement; phosphorus supplementation for root development.
+* **Essential Care Tips:**
+	+ Monitor soil pH levels to prevent nutrient deficiencies
+	+ Maintain optimal temperature range (20-30°C) for lentil growth
+	+ Control weeds regularly to prevent competition for water and nutrients
+================================================================================
+
+Primary Crop: lentil
+Input Conditions: {'N': '14', 'P': '76', 'K': '20', 'pH': '7.042474679', 'Rainfall': '36.5011366', 'Humidity': '62.10652364', 'Temperature': '29.05941162'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+* **Primary Crop:** Lentil
+* **Secondary Crop:** Carrot (complements lentil and has similar growing conditions)
+* **Best Irrigation Method:**
+	+ Method: Drip irrigation
+	+ Frequency: Every 2-3 days, depending on soil moisture
+* **Fertilizer Type & Dosage:**
+	+ Nitrogen: Apply 50 kg/ha NPK (Nitrogen-Phosphorus-Potassium) fertilizer with a nitrogen content of 15% to boost lentil growth.
+	+ Phosphorus: Monitor phosphorus levels as they are already adequate; no additional application required.
+	+ Potassium: Maintain potassium levels at current levels; no additional application necessary.
+* **Essential Care Tips:**
+	+ Crop rotation is recommended to maintain soil fertility and prevent pests/diseases.
+	+ Monitor for aphid infestations due to high humidity (62.1%) and temperature (29°C).
+	+ Apply mulch to reduce soil erosion and retain moisture.
+
+**Additional Considerations**
+
+* Regularly check soil moisture levels to adjust irrigation frequency.
+* Be cautious of potential nitrogen deficiency in lentil crops, which may lead to reduced yields or stunted growth.
+* Keep an eye out for fungal diseases due to high humidity.
+================================================================================
+
+Primary Crop: pomegranate
+Input Conditions: {'N': '8', 'P': '28', 'K': '37', 'pH': '6.082571701', 'Rainfall': '108.3121789', 'Humidity': '86.20613842', 'Temperature': '23.88404783'}
+LLaMA Suggestions:
+**Farming Suggestions for Pomegranate Farm**
+
+**Crop Details**
+
+* Primary Crop: Pomegranate
+* Secondary Crop: Okra (complements pomegranate's water requirements and adds nitrogen)
+
+**Irrigation Method**
+
+* Best Irrigation Method: Drip Irrigation (efficient use of water, reduces evaporation, and prevents soil erosion)
+* Frequency: 2-3 times a week during summer months and once a week during winter months
+
+**Fertilizer Type & Dosage**
+
+* Nitrogen: Organic Compost Tea (10% N, 5% P, 5% K) - 20 kg/acre
+* Phosphorus: Diammonium Phosphate (18-46-0) - 15 kg/acre
+* Potassium: Muriate of Potash (0-0-60) - 10 kg/acre
+
+**Essential Care Tips**
+
+* Soil pH Range: 6.0-7.0, maintain at 6.5 for optimal growth
+* Mulching: Apply 2-3 cm thick layer around the base of plants to retain moisture and suppress weeds
+* Pruning: Prune pomegranate trees annually to promote fruiting and air circulation
+
+**Weather Considerations**
+
+* Rainfall: Adequate, but may require supplemental irrigation during dry spells
+* Temperature: Suitable for pomegranate growth (average temperature range 20-30°C)
+* Humidity: Comfortable for pomegranate growth (average humidity range 50-80%)
+
+Note: These suggestions are based on the given soil and weather conditions. Regular monitoring of crop health and adjusting these recommendations as needed is essential for optimal farm performance.
+================================================================================
+
+Primary Crop: pomegranate
+Input Conditions: {'N': '21', 'P': '6', 'K': '41', 'pH': '7.086947687', 'Rainfall': '107.1951707', 'Humidity': '89.39686219', 'Temperature': '24.88244467'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+* **Crop Details**
+	+ Primary Crop: Pomegranate
+	+ Secondary Crop: Oats (to reduce soil erosion and improve fertility)
+* **Irrigation Method**: Drip Irrigation (efficient use of water, reduced evaporation)
+* **Fertilizer Type & Dosage**:
+	+ Nitrogen-rich fertilizer: 20-10-5 NPK @ 1 kg/1000 sq.m. (to promote healthy leaf growth)
+	+ Phosphorus-rich fertilizer: 10-20-10 NPK @ 500 gm/1000 sq.m. (for root development and fruiting)
+* **Essential Care Tips**
+	+ Monitor pH level regularly, adjust if necessary to maintain optimal range of 6.5-7.5
+	+ Mulch around plants to retain moisture and suppress weeds
+	+ Regular pruning for better air circulation and sun exposure
+	+ Control humidity levels between 50-60% to prevent fungal diseases
+================================================================================
+
+Primary Crop: pomegranate
+Input Conditions: {'N': '40', 'P': '29', 'K': '42', 'pH': '7.104094929', 'Rainfall': '110.6956184', 'Humidity': '89.01574455', 'Temperature': '24.63228709'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+**Crop Details**
+- Primary Crop: Pomegranate
+- Secondary Crop: Okra (complementary crop for pomegranate, helps with pest control and improves soil health)
+
+**Irrigation Method**
+- Best Irrigation Method: Drip Irrigation System (efficient water usage, reduces evaporation, and prevents root rot)
+
+**Fertilization Schedule**
+- Fertilizer Type & Dosage:
+  - Nitrogen (N): Apply 200 kg/ha of ammonium sulfate to raise N levels from 40 ppm
+  - Phosphorus (P): Add 150 kg/ha of single superphosphate to boost P levels from 29 ppm
+  - Potassium (K): Use potassium chloride at a rate of 250 kg/ha to increase K levels from 42 ppm
+
+**Care and Maintenance**
+- Essential Care Tips:
+  - Monitor temperature, aiming for optimal growth between 20°C to 30°C
+  - Maintain humidity above 70% and below 90% to prevent fungal diseases
+  - Adjust irrigation schedule based on rainfall (110.6956184 mm) and temperature fluctuations
+  - Regularly inspect soil pH level (7.104094929), aiming for slightly acidic to neutral range
+================================================================================
+
+Primary Crop: pomegranate
+Input Conditions: {'N': '20', 'P': '7', 'K': '45', 'pH': '6.077886012', 'Rainfall': '112.4750941', 'Humidity': '89.24126808', 'Temperature': '18.90592319'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+### Primary Crop: Pomegranate
+
+#### Secondary Crop
+* Companion Plant: Basil (attracts beneficial insects, improves flavor)
+* Intercrop: Alfalfa (improves soil fertility, suppresses weeds)
+
+#### Best Irrigation Method
+* Drip Irrigation (reduces water loss, minimizes soil erosion)
+
+#### Fertilizer Type & Dosage
+* Nitrogen: 15-20 kg/ha (balance with crop demand)
+* Phosphorus: 10-15 kg/ha (for root development and fruiting)
+* Potassium: 30-40 kg/ha (maintains overall plant health)
+* Organic Fertilizer: Compost Tea (1:10 ratio, applied every 2 weeks)
+
+#### Essential Care Tips
+
+* **Pruning**: Prune trees in late winter to maintain shape and promote fruiting
+* **Pest Management**: Monitor for pests like aphids, whiteflies, and spider mites; use neem oil or insecticidal soap as needed
+* **Soil Mulching**: Apply 5-7 cm of organic mulch (wood chips or straw) to retain moisture and suppress weeds
+
+**Additional Considerations**
+
+* Pomegranate trees require a full-grown canopy by age 4-5. Ensure proper pruning and training for optimal growth.
+* Regularly monitor soil pH, adjusting as necessary to maintain an optimal range of 6.0-7.0 for pomegranate cultivation.
+================================================================================
+
+Primary Crop: pomegranate
+Input Conditions: {'N': '2', 'P': '21', 'K': '44', 'pH': '6.56893406', 'Rainfall': '102.8013275', 'Humidity': '87.31290342', 'Temperature': '18.92157197'}
+LLaMA Suggestions:
+Based on the given soil and weather conditions, here are the structured farming suggestions for growing Pomegranate:
+
+**Crop Details**
+
+* Primary Crop: **Pomegranate**
+* Secondary Crop: **Lettuce** (to be intercropped to improve soil health and reduce pests)
+
+**Irrigation Method**
+
+* Best Irrigation Method: **Drip Irrigation** (efficient use of water, reduces evaporation and runoff)
+* Watering Schedule:
+	+ Frequency: Every 2-3 days during hot weather
+	+ Quantity: 10-15 liters/tree/day
+
+**Fertilizer Application**
+
+* Fertilizer Type & Dosage:
+	+ Nitrogen: 1.5 kg/tree (ammonium sulphate, 20-20-0 N-P-K)
+	+ Phosphorus: 0.75 kg/tree (diammonium phosphate, 18-46-0 N-P-K)
+	+ Potassium: 1 kg/tree (potash, 0-0-60 K)
+
+**Essential Care Tips**
+
+* Soil pH Level Adjustment: Maintain a pH level between 6.5 and 7.5
+* Temperature Control:
+	+ Young plants prefer temperatures above 15°C
+	+ Fruit set is optimal at 20-25°C
+* Humidity Management:
+	+ Maintain relative humidity above 60%
+	+ Monitor for fungal diseases in high-humidity conditions
+
+**Additional Tips**
+
+* Plant pomegranate trees at least 3 meters apart to ensure proper air circulation and sunlight penetration
+* Mulch around the base of the tree to retain moisture and suppress weeds
+================================================================================
+
+Primary Crop: banana
+Input Conditions: {'N': '110', 'P': '71', 'K': '54', 'pH': '5.725418961', 'Rainfall': '94.37987496', 'Humidity': '82.20793613', 'Temperature': '28.67208915'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+### Primary Crop
+* **Crop:** Banana
+* **Variety:** Cavendish (best for tropical climates)
+
+### Soil Nutrient Analysis
+
+| Nutrient | ppm |
+| --- | --- |
+| Nitrogen (N) | 110 |
+| Phosphorus (P) | 71 |
+| Potassium (K) | 54 |
+
+### Recommendations
+
+#### Secondary Crop
+* **Crop:** Cassava (compatible with banana and thrives in similar conditions)
+
+#### Best Irrigation Method
+* **Drip Irrigation**: suitable for banana cultivation, reducing water loss through runoff or evaporation
+
+#### Fertilizer Type & Dosage
+* **Fertilizer Type:** Balanced fertilizer (e.g., 15-15-15 N-P-K)
+	+ Apply at planting: 2 kg/ha
+	+ First side-dressing after 3 months: 1.5 kg/ha
+	+ Second side-dressing after another 3 months: 1.5 kg/ha
+
+#### Essential Care Tips
+
+* Maintain optimal temperature range between 20-30°C for banana growth.
+* Water the plants regularly, but avoid overwatering to prevent root rot.
+* Monitor and control pests and diseases regularly, such as nematodes and fungal infections.
+
+### Additional Considerations
+* Regular soil testing is recommended every 6 months to adjust fertilizer application according to nutrient availability in the soil.
+* Mulching can help retain moisture, suppress weeds, and regulate soil temperature.
+================================================================================
+
+Primary Crop: banana
+Input Conditions: {'N': '91', 'P': '94', 'K': '46', 'pH': '6.149934034', 'Rainfall': '92.82840911', 'Humidity': '76.24900101', 'Temperature': '29.36792366'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+* **Primary Crop:** Banana
+* **Secondary Crop:** Spinach (Nitrogen-fixing crop to complement banana's needs)
+* **Best Irrigation Method:**
+	+ Frequency: Every 2 days
+	+ Water Depth: 20-25 cm
+* **Fertilizer Type & Dosage:**
+	+ NPK Fertilizer (14-14-14): Apply at planting time and every 30 days
+	+ Organic Compost: Mix 5 kg/acre for improved soil health
+* **Essential Care Tips:**
+	+ Mulching: Use organic mulch to retain moisture and suppress weeds
+	+ Pest Control: Regularly inspect crops for pests like aphids, whiteflies, and nematodes
+
+**Additional Recommendations:**
+
+* Monitor pH level regularly; adjust as necessary to maintain a slightly acidic to neutral range (pH 6.0-7.0) for banana cultivation.
+* Maintain adequate potassium levels through regular fertilization or potassium-rich organic amendments to ensure optimal fruit yield.
+
+**Crop Rotation:**
+Rotate crops every 2-3 years to avoid soil depletion and reduce the risk of pests and diseases. For example, rotate with a legume crop like beans or lentils to replenish nitrogen in the soil.
+
+Note: These suggestions are based on general guidelines for banana cultivation and may need to be adjusted according to specific farm conditions and regional best practices.
+================================================================================
+
+Primary Crop: banana
+Input Conditions: {'N': '101', 'P': '70', 'K': '48', 'pH': '6.012696655', 'Rainfall': '116.5531455', 'Humidity': '75.03193255', 'Temperature': '25.36059237'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+### Primary Crop Details
+
+* **Crop:** Banana
+* **Optimal pH Range:** 5.5 - 6.5 (Current pH: 6.0127, suitable for banana cultivation)
+
+### Secondary Crop Recommendation
+
+* **Secondary Crop:** Green beans or lettuce (complementary crops with similar climate requirements and growth periods)
+* **Reasoning:** These crops will help to maintain soil fertility, reduce pests and diseases, and provide a diverse yield.
+
+### Irrigation Method
+
+* **Irrigation Method:** Drip irrigation
+* **Justification:** Banana plants require consistent moisture levels. Drip irrigation will ensure targeted watering while minimizing water loss through evaporation or runoff.
+
+### Fertilizer Type & Dosage
+
+* **Fertilizer Type:** Balanced fertilizer (e.g., 20-20-20 NPK)
+* **Dosage:**
+	+ Pre-planting: Apply 2 kg/ha
+	+ Post-harvest (after fruit removal): Apply 1.5 kg/ha every 3 months
+
+### Essential Care Tips
+
+* **Water Management:** Maintain an average rainfall of 100 - 150 mm/month.
+* **Pruning and Training:** Train banana plants to a height of about 2 meters, ensuring air circulation around the plant.
+* **Pest and Disease Control:** Regularly monitor for pests (e.g., nematodes) and diseases (e.g., Panama disease). Apply integrated pest management techniques as needed.
+
+**Note:** These suggestions are based on general guidelines for banana cultivation. Specific requirements may vary depending on local regulations, soil characteristics, and regional climate conditions. It is essential to consult with local agricultural experts for more precise recommendations.
+================================================================================
+
+Primary Crop: banana
+Input Conditions: {'N': '119', 'P': '90', 'K': '48', 'pH': '5.986442306', 'Rainfall': '118.2583441', 'Humidity': '79.59242542', 'Temperature': '28.66725136'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+* **Primary Crop:** Banana
+* **Secondary Crop:** Spinach (nitrogen-fixing crop to complement banana's nutrient requirements)
+* **Best Irrigation Method:**
+	+ Drip irrigation for efficient water use and reduced runoff
+	+ Consider installing a rainwater harvesting system to supplement irrigation needs
+* **Fertilizer Type & Dosage:**
+	+ NPK balanced fertilizer (15-15-15) at 1 kg/100 sq.mt. for the first application
+	+ Follow up with nitrogen-rich fertilizer (45-0-0) at 0.5 kg/100 sq.mt. after 30 days to promote banana growth
+* **Essential Care Tips:**
+	+ Maintain optimal pH levels between 6.0 and 7.0 for healthy plant growth
+	+ Regularly monitor soil moisture to prevent overwatering, which can lead to root rot in bananas
+	+ Ensure adequate spacing (at least 1.5 meters) between banana plants to promote air circulation and reduce disease susceptibility
+
+**Additional Notes:**
+
+* Monitor phosphorus levels, as they are slightly below optimal range for banana cultivation.
+* Consider adding potassium-rich fertilizers to maintain soil fertility and support banana growth.
+================================================================================
+
+Primary Crop: banana
+Input Conditions: {'N': '100', 'P': '80', 'K': '52', 'pH': '6.049801781', 'Rainfall': '110.3262123', 'Humidity': '77.25629897', 'Temperature': '27.53911354'}
+LLaMA Suggestions:
+Based on the given soil and weather conditions, here are the structured farming suggestions for banana cultivation:
+
+**Crop Selection**
+- Primary Crop: Banana
+- Secondary Crop: Cassava (to make use of leftover space and provide shade)
+
+**Irrigation Method**
+- Best Irrigation Method: Drip Irrigation (efficient water usage with reduced runoff)
+- Water Frequency: Every 3 days during peak temperature
+
+**Fertilization**
+- Fertilizer Type & Dosage:
+    * Nitrogen-rich fertilizer (NPK 20:5:10): 1 kg/acre for first application, then 0.5 kg/acre every 30 days
+    * Potassium-rich fertilizer (KCl): 0.8 kg/acre after 60 days
+
+**Soil pH Correction**
+- Soil pH Level: 6.049801781 (slightly acidic)
+- Recommendation: Apply lime to adjust pH level between 6.0 and 7.0 for optimal growth
+
+**Essential Care Tips**
+- Monitor temperature below 32°C to avoid fungal diseases
+- Ensure consistent moisture levels to promote fruit development
+- Regular pruning to maintain plant health and encourage fruiting
+- Use integrated pest management techniques to control pests like nematodes and aphids
+================================================================================
+
+Primary Crop: mango
+Input Conditions: {'N': '28', 'P': '27', 'K': '34', 'pH': '6.526654345', 'Rainfall': '95.04871605', 'Humidity': '50.69693751', 'Temperature': '32.45465292'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+* **Crop Combination**
+	+ Primary Crop: Mango
+	+ Secondary Crop: Coconut (for shade and pest management)
+* **Irrigation Method**: Drip Irrigation System ( efficient water usage and reduced evaporation losses)
+* **Fertilizer Type & Dosage**
+	+ Nitrogen: 10 kg/ha NPK 20-20-15 ( balanced fertilizer for fruit growth)
+	+ Phosphorus: 8 kg/ha Rock Phosphate (for root development and fruiting)
+	+ Potassium: 12 kg/ha Muriate of Potash (for overall plant health)
+* **Essential Care Tips**
+	+ Regular pruning to maintain tree shape and promote healthy growth
+	+ Mulching around the base for moisture retention and weed suppression
+	+ Pest management using Neem oil or biopesticides to minimize chemical use
+================================================================================
+
+Primary Crop: mango
+Input Conditions: {'N': '18', 'P': '19', 'K': '27', 'pH': '4.772385986000001', 'Rainfall': '94.11213345', 'Humidity': '52.34605806', 'Temperature': '27.75518664'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+### Primary Crop: Mango
+
+#### Soil Analysis
+
+* Nitrogen (N): 18 ppm - Adequate
+* Phosphorus (P): 19 ppm - Slightly Above Optimal (optimal: 15-20 ppm)
+* Potassium (K): 27 ppm - Sufficient
+
+#### Weather Conditions
+
+* pH Level: 4.772385986 (acidic) - Requires Lime Application
+* Rainfall: 94.11213345 mm - Normal for Mango Crop
+* Humidity: 52.34605806% - Moderate
+* Temperature: 27.75518664°C - Suitable for Mango Growth
+
+#### Recommendations
+
+**Secondary Crop**: Coconut or Banana (complementary crops that benefit from mango tree shade)
+
+**Best Irrigation Method**: Drip Irrigation System (efficient water use, reducing soil erosion and root rot)
+
+**Fertilizer Type & Dosage**
+
+* Balanced Fertilizer (14-14-14 NPK): Apply 1 kg per acre every 2 months
+* Phosphorus-rich Fertilizer: Apply 0.5 kg per acre to promote fruit set
+
+#### Essential Care Tips
+
+* Maintain soil pH between 6.0 and 7.0 by applying lime as necessary.
+* Monitor for pests like mango hoppers, mealybugs, and scales.
+* Regularly inspect trees for signs of nutrient deficiencies or disease.
+
+**Additional Notes**
+
+* Mango trees require a well-draining soil mix to prevent root rot.
+* Prune trees regularly to promote healthy growth and fruit production.
+================================================================================
+
+Primary Crop: mango
+Input Conditions: {'N': '5', 'P': '32', 'K': '33', 'pH': '5.842763773', 'Rainfall': '93.36718816', 'Humidity': '52.58967710000001', 'Temperature': '32.32362177'}
+LLaMA Suggestions:
+**Farming Suggestions for Mango Plantation**
+
+* **Crop Selection**
+	+ Primary Crop: Mango
+	+ Secondary Crop: Coconut (to provide shade and improve soil health)
+* **Irrigation Method**: Drip Irrigation (efficient use of water, reduces evaporation and runoff)
+* **Fertilizer Type & Dosage**:
+	+ NPK Fertilizer: 15-15-15 (balanced nutrient supply for fruit growth)
+	+ Application Schedule:
+		- Pre-planting: 50 kg/ha
+		- Foliar spray after 30 days of planting: 20 kg/ha
+* **Essential Care Tips**:
+	+ Maintain pH level between 6.0 and 7.0 (adjust fertilizers accordingly)
+	+ Monitor soil moisture, especially during hot weather
+	+ Prune trees regularly to promote healthy growth and fruiting
+	+ Apply fungicides or pesticides as needed to control pests and diseases
+
+**Additional Considerations**
+
+* Mango plants require a well-draining soil with a pH level between 6.0 and 7.0.
+* Coconut trees will help maintain soil health, reduce erosion, and provide shade for the mango trees.
+* Drip irrigation is essential in this scenario to conserve water and prevent nutrient leaching.
+* Regular fertilization and pruning will promote healthy growth, fruiting, and pest resistance.
+
+**Note**: These suggestions are based on the provided input features. Adjustments may be necessary depending on specific regional conditions and weather patterns. Consult with local experts or agricultural specialists for more tailored advice.
+================================================================================
+
+Primary Crop: mango
+Input Conditions: {'N': '39', 'P': '24', 'K': '31', 'pH': '4.757114897', 'Rainfall': '98.67527561', 'Humidity': '53.72979826', 'Temperature': '33.55695561'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+* **Secondary Crop**: Papaya or Banana (compatible with Mango and thrive in similar conditions)
+* **Best Irrigation Method**: Drip Irrigation (efficient for Mango trees, especially when rainfall is moderate)
+* **Fertilizer Type & Dosage**:
+	+ Nitrogen: 10-20 kg/ha (to balance the 39 ppm level)
+	+ Phosphorus: 8-15 kg/ha (to counteract the low 24 ppm level)
+	+ Potassium: 5-10 kg/ha (since Mango requires a balanced potassium level)
+* **Essential Care Tips**:
+	+ Maintain pH between 6.0 and 7.0 (current pH is acidic, consider lime application)
+	+ Monitor humidity levels to prevent fungal diseases
+	+ Prune trees regularly for optimal sunlight exposure and air circulation
+
+Note: These suggestions are based on general agricultural practices and may need to be adjusted according to specific regional requirements and crop varieties.
+================================================================================
+
+Primary Crop: mango
+Input Conditions: {'N': '5', 'P': '19', 'K': '25', 'pH': '6.441328044', 'Rainfall': '96.27792547', 'Humidity': '54.43945147', 'Temperature': '27.351105600000004'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+**Crop Selection**
+- Primary Crop: Mango
+- Secondary Crop: Okra (complements mango with nitrogen fixation and pest control)
+
+**Irrigation Method**
+- Best Irrigation Method: Drip Irrigation (efficient water use, reduces runoff, and saves 20-50% of water)
+
+**Fertilizer Dosage**
+- NPK Fertilizer (15-15-30):
+  - Nitrogen: 120 kg/ha
+  - Phosphorus: 100 kg/ha
+  - Potassium: 150 kg/ha
+
+**Care Tips**
+
+- Monitor pH Level: Adjust fertilizer application and crop selection based on pH Level (target 6.0-7.0)
+- Regular Soil Test: Check for nutrient deficiencies, adjust fertilizers accordingly
+- Prune Mango Trees Regularly to promote healthy growth and increase yield
+- Mulch around mango trees to retain moisture, suppress weeds, and regulate temperature
+
+**Additional Tips**
+- Apply boron (10 kg/ha) and zinc (25 kg/ha) as micronutrients for enhanced fruit quality
+- Install shade nets or tree shelters to protect from extreme temperatures and pests
+================================================================================
+
+Primary Crop: grapes
+Input Conditions: {'N': '36', 'P': '125', 'K': '196', 'pH': '6.15526103', 'Rainfall': '66.83872293', 'Humidity': '80.65968681', 'Temperature': '37.46566825'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+* **Primary Crop:** Grapes (Vitis vinifera)
+* **Secondary Crop:** Almonds (Prunus dulcis) - complementary crop for pollination and pest control
+* **Best Irrigation Method:**
+	+ Drip irrigation: 40-50% of total rainfall
+	+ Sprinkler irrigation: remainder of rainfall needs (as per soil moisture levels)
+* **Fertilizer Type & Dosage:**
+	+ NPK Balanced Fertilizer (10-10-10):
+		- Apply 1 kg/ha every 3 months for the first year, then biannually
+	+ Potassium Sulfate (0-0-60 K): supplement potassium levels (196 ppm already adequate)
+		- Apply 50% of normal dosage to avoid over-fertilization
+* **Essential Care Tips:**
+	+ Regular monitoring of temperature (optimal range: 25-35°C) and humidity (65-80%)
+	+ Prune grapevines regularly for optimal growth, fruit yield, and sunlight penetration
+	+ Control weeds and pests biweekly using integrated pest management techniques
+================================================================================
+
+Primary Crop: grapes
+Input Conditions: {'N': '6', 'P': '139', 'K': '199', 'pH': '6.29099842', 'Rainfall': '74.10919422', 'Humidity': '81.6212135', 'Temperature': '25.67385024'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+* **Secondary Crop:** Alfalfa (as a companion crop to improve soil health and reduce pests)
+* **Best Irrigation Method:**
+	+ Drip irrigation to minimize water loss and ensure targeted delivery
+	+ Schedule: 3-4 times a week, depending on rainfall and humidity levels
+* **Fertilizer Type & Dosage:**
+	+ Nitrogen (N): Balanced fertilizer with 15-15-15 NPK formulation, apply 150 kg/ha
+	+ Phosphorus (P): DAP (Diammonium Phosphate) @ 50 kg/ha to address low phosphorus levels
+	+ Potassium (K): KCl (Potassium Chloride) @ 75 kg/ha for potassium supplementation
+* **Essential Care Tips:**
+	+ Soil pH adjustment: Apply lime @ 200 kg/ha to adjust pH level to 6.5-7.0 range
+	+ Monitoring: Regularly check soil moisture, temperature, and humidity levels to ensure optimal grape growth
+	+ Pest management: Keep a watch for common grape pests like spider mites, mealybugs, and scale insects, using integrated pest management techniques whenever necessary
+
+Note: The suggested fertilizer application rates are approximate values based on the given soil nutrient levels. Adjustments may be required based on specific crop requirements and regional guidelines.
+================================================================================
+
+Primary Crop: grapes
+Input Conditions: {'N': '33', 'P': '120', 'K': '205', 'pH': '5.550832177999999', 'Rainfall': '69.71518491', 'Humidity': '82.26890793', 'Temperature': '35.12158265'}
+LLaMA Suggestions:
+Based on the given soil and weather conditions, here are some structured farming suggestions for growing grapes:
+
+**Crop Details**
+- Primary Crop: Grapes
+- Secondary Crop: None recommended due to optimal climate and soil conditions.
+
+**Irrigation Method**
+- Best Irrigation Method: Drip Irrigation ( efficient water usage and reduction in soil erosion)
+
+**Fertilizer Application**
+- Fertilizer Type & Dosage:
+  - Nitrogen: Balanced fertilizer with 15% N, 15% P2O5, and 15% K2O (1.25 kg/1000 sq. m)
+  - Phosphorus: Single Superphosphate (SSP) at 200 ppm (12 kg/ha)
+  - Potassium: Muriate of Potash (MoP) at 205 ppm (10 kg/ha)
+
+**Essential Care Tips**
+- Monitor pH levels, aiming for 5.5 to 6.0
+- Regularly inspect and manage soil moisture to prevent waterlogging
+- Train grapevines to a suitable trellis system for optimal growth and yield
+- Apply fungicides as necessary during the wet season to control fungal diseases
+================================================================================
+
+Primary Crop: grapes
+Input Conditions: {'N': '8', 'P': '133', 'K': '195', 'pH': '6.456079585', 'Rainfall': '71.29813872', 'Humidity': '80.97598029', 'Temperature': '20.46657776'}
+LLaMA Suggestions:
+Here are the farming suggestions based on the given soil and weather conditions:
+
+**Crop Details**
+
+* Primary Crop: Grapes (suitable for temperate climate and well-drained soils)
+* Secondary Crop: Raspberries or Strawberries (compatible with grapes, can benefit from shared support structures)
+
+**Soil and Fertilizer**
+
+* Nitrogen (N) Level: 8 ppm (sufficient for grape growth)
+* Phosphorus (P) Level: 133 ppm (excessive, but can be balanced with proper fertilizer application)
+* Potassium (K) Level: 195 ppm (optimal range for grape cultivation)
+* pH Level: 6.45 (slightly acidic, suitable for most fruit crops)
+
+**Fertilizer Recommendation**
+
+* Type: Balanced Fertilizer (e.g., 10-20-10 N-P-K ratio)
+* Dosage: 1 kg/acre (apply every 2 weeks during the growing season)
+
+**Irrigation and Water Management**
+
+* Best Irrigation Method: Drip Irrigation (efficient water delivery, reduces evaporation and runoff)
+* Rainfall: 71.3 mm (sufficient for grape cultivation in temperate regions)
+* Humidity: 80.98% (moderate humidity, suitable for grape growth)
+
+**Essential Care Tips**
+
+* Temperature: Maintain optimal temperature range of 15-25°C during the growing season
+* Pruning: Regular pruning to promote healthy growth and fruit production
+* Pest Management: Monitor for common pests like spider mites, mealybugs, and powdery mildew
+
+Note: These suggestions are based on general guidelines and may need to be adjusted according to specific regional conditions and crop requirements.
+================================================================================
+
+Primary Crop: grapes
+Input Conditions: {'N': '37', 'P': '135', 'K': '205', 'pH': '5.5109248489999985', 'Rainfall': '74.10225057', 'Humidity': '80.2827185', 'Temperature': '11.82768186'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+* **Secondary Crop:** Tomatoes, suitable for high pH levels and moderate rainfall.
+* **Best Irrigation Method:**
+	+ Frequency: 2-3 times a week (moderate watering)
+	+ Timing: Early morning to minimize evaporation
+	+ Duration: 30-45 minutes per session
+* **Fertilizer Type & Dosage:**
+	+ Nitrogen: Apply ammonium sulfate at 150 ppm for balanced growth (10 kg/ha)
+	+ Phosphorus: Use di-ammonium phosphate at 135 ppm to promote fruiting and flowering (8 kg/ha)
+	+ Potassium: Add potassium nitrate at 205 ppm for overall plant health (12 kg/ha)
+* **Essential Care Tips:**
+	+ Regular pruning for optimal sunlight exposure
+	+ Mulching around plants to maintain soil moisture and temperature
+	+ Pest monitoring: keep an eye out for aphids, whiteflies, and spider mites
+
+Note: The suggested fertilizer dosages are approximate and may vary based on specific crop requirements and regional regulations. Consult a local agricultural expert before applying any fertilizers.
+================================================================================
+
+Primary Crop: watermelon
+Input Conditions: {'N': '97', 'P': '25', 'K': '50', 'pH': '6.093814669', 'Rainfall': '49.08553937', 'Humidity': '80.90127035', 'Temperature': '26.22005978'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+### Primary Crop: Watermelon
+- **Watering Need:** Medium (due to rainfall)
+- **Sunlight Requirement:** Full sun (>6 hours)
+
+### Secondary Crop:
+- **Basil**: Complementary crop, adds flavor and repels pests
+  - Plant after watermelon is established
+
+### Best Irrigation Method:
+- **Drip Irrigation**: Efficient use of water resources, reduces evaporation and runoff
+
+### Fertilizer Type & Dosage:
+- **Balanced NPK (Nitrogen, Phosphorus, Potassium)**
+  - Apply a balanced fertilizer with Nitrogen: 15%, Phosphorus: 10%, Potassium: 10% at planting time
+  - For optimal watermelon growth, use an additional application of potassium-rich fertilizer (0.5 kg/100 sq meters) after the first harvest
+
+### Essential Care Tips:
+
+- **Soil pH:** Maintain within a slightly acidic to neutral range for best nutrient availability
+- **Water Management**: Monitor and adjust irrigation according to soil moisture levels, avoiding overwatering which can lead to disease issues
+- **Temperature Control**: Use shading materials during peak summer temperatures above 32°C to prevent sun scorch
+
+### Notes:
+- Regular monitoring of watermelon health and adjusting care practices as needed is crucial.
+- These suggestions are based on the given input conditions. Adaptation according to specific farm requirements and local regulations may be necessary for optimal results.
+================================================================================
+
+Primary Crop: watermelon
+Input Conditions: {'N': '81', 'P': '6', 'K': '55', 'pH': '6.110142735', 'Rainfall': '51.70699144', 'Humidity': '85.87059083', 'Temperature': '24.88910524'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+* **Primary Crop:** Watermelon (`Suggestion`)
+* **Secondary Crop:** Cucumber or pumpkin, as they have similar soil requirements and can be planted alongside watermelon (`Secondary_Crop`)
+
+### Soil and Nutrient Management
+
+* **Fertilizer Type & Dosage:**
+	+ Nitrogen (N): 15-20% of recommended dose due to relatively high nitrogen levels
+	+ Phosphorus (P): Apply phosphorus-rich fertilizer @ 10 kg/acre, considering the slightly acidic pH level
+	+ Potassium (K): No additional potassium application needed
+
+### Irrigation and Water Management
+
+* **Best Irrigation Method:** Drip irrigation for efficient water usage, especially with moderate rainfall levels
+* **Water Requirements:** Maintain soil moisture at 60-70% field capacity to prevent overwatering and ensure optimal root development
+
+### Climate and Weather Adaptation
+
+* **Temperature Tolerance:** Ensure adequate air circulation around the plants to mitigate heat stress during hot temperatures
+* **Rainfall Management:** Utilize rainwater harvesting techniques to supplement irrigation needs, especially during dry spells
+================================================================================
+
+Primary Crop: watermelon
+Input Conditions: {'N': '90', 'P': '16', 'K': '45', 'pH': '6.291540277999999', 'Rainfall': '50.55710813', 'Humidity': '80.61750795', 'Temperature': '24.92093261'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+*   **Primary Crop:** Watermelon
+*   **Secondary Crop:** Cucumber (companion planting for pest control and improved growth)
+*   **Best Irrigation Method:**
+    *   **Frequency:** Every 2-3 days during hot weather, adjust according to rainfall
+    *   **Method:** Drip irrigation or sprinkler system to maintain moisture levels and prevent waterlogging
+*   **Fertilizer Type & Dosage:**
+    *   **Nitrogen (N):** 20-25 kg/ha (based on soil analysis)
+    *   **Phosphorus (P2O5):** 15-20 kg/ha (based on soil analysis)
+    *   **Potassium (K2O):** 30-40 kg/ha (based on soil analysis)
+    *   **Additional Fertilizer:** Organic manure (compost) to improve soil fertility and structure
+*   **Essential Care Tips:**
+    *   Maintain a pH level between 6.0 and 7.0 for optimal watermelon growth
+    *   Water the crop deeply but infrequently to encourage deep root growth
+    *   Monitor humidity levels, ideally between 60-80% for healthy growth
+    *   Protect the crop from extreme temperature fluctuations (above 35°C or below 15°C)
+================================================================================
+
+Primary Crop: watermelon
+Input Conditions: {'N': '92', 'P': '7', 'K': '48', 'pH': '6.956508826', 'Rainfall': '54.38748495', 'Humidity': '86.63249555', 'Temperature': '26.27520631'}
+LLaMA Suggestions:
+Based on the given soil and weather conditions, here are the structured farming suggestions:
+
+**Key-Value Pairs**
+
+| **Farming Suggestions** | **Details** |
+| --- | --- |
+| **Primary Crop** | Watermelon (Sweet or Sugar Baby variety) |
+| **Secondary Crop** | Green bean or okra for intercropping to provide shade and reduce soil erosion. |
+| **Best Irrigation Method** | Drip irrigation system with a frequency of 3-4 days, considering the moderate rainfall and high humidity. |
+| **Fertilizer Type & Dosage** | Balanced NPK fertilizer (15-15-15) at 50 kg/ha for initial application, followed by Top-dressing with calcium nitrate (15% N) at 25 kg/ha for every 2 weeks to promote fruit development and prevent blossom end rot. |
+| **Essential Care Tips** | 
+	+ Maintain a consistent moisture level in the soil.
+	+ Control weeds bi-weekly to avoid competition for nutrients and water.
+	+ Monitor temperature and humidity levels closely, as extreme conditions can lead to fungal diseases.
+	+ Use row covers to prevent pests like aphids, whiteflies, and spider mites. |
+| **pH Adjustment** | No immediate pH adjustment necessary, but consider adding lime (calcium carbonate) at 50 kg/ha if the pH level falls below 6.5 for optimal nutrient availability. |
+
+**Additional Considerations**
+
+- Watermelon requires a warm temperature between 25°C to 35°C for optimal growth.
+- The moderate rainfall and high humidity suggest good conditions for fruit development.
+
+Please note that these suggestions are specific to the provided input features and might not be universally applicable. Farmers should always consult local agricultural experts, weather forecasts, and soil testing results before making final decisions on crop selection and management practices.
+================================================================================
+
+Primary Crop: watermelon
+Input Conditions: {'N': '117', 'P': '27', 'K': '48', 'pH': '6.8352681839999985', 'Rainfall': '54.30660782', 'Humidity': '82.39053979', 'Temperature': '26.53259325'}
+LLaMA Suggestions:
+Based on the given soil and weather conditions, here are the structured farming suggestions:
+
+**Crop Details**
+* Primary Crop: Watermelon
+* Secondary Crop: Cucumber (complementary crop for watermelon)
+
+**Irrigation Method**
+* Best Irrigation Method: Drip Irrigation (efficient use of water with minimal evaporation loss)
+* Frequency: Every 2-3 days, depending on soil moisture levels and temperature
+
+**Fertilizer Application**
+* Fertilizer Type: Balanced NPK (Nitrogen-Phosphorus-Potassium) fertilizer
+	+ Nitrogen (N): 12.5% (to support watermelon growth)
+	+ Phosphorus (P): 10% (for root development and fruiting)
+	+ Potassium (K): 15% (for overall plant health and resistance to disease)
+* Dosage: Apply 1.25 kg per 100 sq.m of soil, as a top dressing after transplanting
+
+**Care Tips**
+* Soil pH adjustment: Maintain the current pH level between 6.5-7.0 for optimal watermelon growth
+* Rainfall management: Use rainwater harvesting to reduce dependence on external irrigation sources
+* Pest and disease control: Monitor regularly for pests like aphids, whiteflies, and fungal diseases like powdery mildew; use integrated pest management (IPM) techniques as necessary
+
+**Other Considerations**
+* Temperature: Watermelon is suitable for temperatures between 20-30°C; provide shade cloth or other forms of shading if temperature exceeds 35°C
+* Humidity: Maintain humidity levels above 60% to prevent water loss through transpiration
+================================================================================
+
+Primary Crop: muskmelon
+Input Conditions: {'N': '93', 'P': '20', 'K': '50', 'pH': '6.4487926889999985', 'Rainfall': '24.34814338', 'Humidity': '93.22980899', 'Temperature': '29.93061247'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+### Crop Selection
+
+* Primary Crop: Muskmelon (best suited for the given conditions)
+* Secondary Crop: Cucumber (complementary crop to muskmelon, requiring similar soil and climate conditions)
+
+### Irrigation Method
+
+* Best Irrigation Method: Drip Irrigation (efficient water distribution, reduces evaporation & runoff)
+
+### Fertilizer Type & Dosage
+
+* Nitrogen (N): Apply 10-20 kg/ha of Urea (46% N) for optimal growth
+* Phosphorus (P): Add 30-40 kg/ha of Diammonium Phosphate (18-46-0) to promote root development
+* Potassium (K): Use 15-20 kg/ha of Muriate of Potash (60% K2O) for overall plant health
+
+### Essential Care Tips
+
+* Soil pH: Maintain a pH range of 6.0-7.0 for optimal nutrient availability and muskmelon growth
+* Temperature: Provide shade during peak temperature (above 30°C) to prevent sunburn
+* Humidity: Ensure adequate humidity (60-80%) to reduce water loss through transpiration
+
+### Additional Tips
+
+* Plant secondary crop (cucumber) after muskmelon, allowing for a 2-week gap to minimize competition
+* Monitor soil moisture regularly and adjust irrigation schedule accordingly to avoid overwatering
+================================================================================
+
+Primary Crop: muskmelon
+Input Conditions: {'N': '117', 'P': '25', 'K': '53', 'pH': '6.413927319', 'Rainfall': '24.52020164', 'Humidity': '92.12543021', 'Temperature': '29.11858526'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+### Primary Crop: Muskmelon
+
+#### Soil Analysis
+
+* Nitrogen (N): 117 ppm (adequate)
+* Phosphorus (P): 25 ppm (deficient)
+* Potassium (K): 53 ppm (adequate)
+
+#### Weather Conditions
+
+* Rainfall: 24.52 mm (moderate)
+* Humidity: 92.13% (high)
+* Temperature: 29.12°C (warm)
+
+### Secondary Crop
+
+* **Basil**: suitable for intercropping with muskmelon, improves flavor and repels pests
+
+### Best Irrigation Method
+
+* **Drip Irrigation**: efficient use of water, reduces evaporation, and prevents waterlogging
+
+### Fertilizer Type & Dosage
+
+* **Compost Tea**: 10% strength, applied weekly
+	+ Benefits: improves soil structure, increases beneficial microbes, and enhances nutrient uptake
+* **Nitrogen-rich fertilizer (e.g., Urea)**: 20 kg/ha, applied in two split doses
+	+ Benefits: addresses nitrogen deficiency, promotes leaf growth
+
+### Essential Care Tips
+
+* **Crop Spacing**: maintain 1.5-2 meters between plants for optimal air circulation and sunlight penetration
+* **Pruning**: regular pruning to promote fruiting and prevent disease spread
+* **Pest Management**: monitor regularly for pests like aphids, whiteflies, and spider mites; use organic control methods whenever possible
+
+Note: These suggestions are based on general guidelines and may need to be adjusted according to specific farm conditions and regional expertise.
+================================================================================
+
+Primary Crop: muskmelon
+Input Conditions: {'N': '84', 'P': '21', 'K': '55', 'pH': '6.494251024', 'Rainfall': '21.08484101', 'Humidity': '94.79453182', 'Temperature': '28.47090661'}
+LLaMA Suggestions:
+**Farming Suggestions for Muskmelon Cultivation**
+
+**Crop Selection**
+- Primary Crop: Muskmelon (Cucumis melo)
+- Secondary Crop: Tomato or Cucumber, suitable for intercropping with muskmelon to utilize space efficiently and enhance growth through companion planting.
+
+**Irrigation Method**
+- Best Irrigation Method: Drip irrigation is recommended. It provides precise water delivery directly to the roots, reducing evaporation and runoff. This method also helps maintain soil moisture levels, reducing the need for frequent watering.
+
+**Fertilizer Application**
+- Fertilizer Type: Balanced fertilizer (e.g., NPK 15-15-15) or a slow-release nitrogen fertilizer.
+- Dosage: Apply 500 kg/ha of balanced fertilizer at planting and 250 kg/ha after 30 days. Alternatively, for the slow-release nitrogen fertilizer, follow the manufacturer’s instructions.
+
+**Soil pH Adjustment**
+- Recommended pH Range for Muskmelon: 6.0 - 7.0.
+- Adjust pH to maintain optimal range if necessary. Lime may be needed to increase pH; sulfur to decrease it.
+
+**Care and Management Tips**
+
+* **Watering:** Maintain consistent moisture levels, especially during flowering stages. Aim for about 70% of the field’s total annual rainfall through irrigation.
+* **Pest and Disease Control:**
+	+ Monitor regularly for aphids, whiteflies, and powdery mildew.
+	+ Practice integrated pest management (IPM) to minimize chemical use.
+* **Pruning:** Regular pruning promotes healthy growth, reduces water consumption, and encourages fruiting.
+* **Mulching:** Apply a 3-inch layer of organic mulch around plants. This helps retain moisture, suppress weeds, and regulate soil temperature.
+
+**Additional Considerations**
+
+- Plant muskmelon in a raised bed or mound if the soil is heavy clay.
+- Maintain a row spacing of about 1.8 meters for better air circulation.
+
+These suggestions are based on common agricultural practices tailored to the provided input features. Adjustments may be necessary depending on your specific location and climate conditions.
+================================================================================
+
+Primary Crop: muskmelon
+Input Conditions: {'N': '106', 'P': '16', 'K': '54', 'pH': '6.585872508', 'Rainfall': '24.7458198', 'Humidity': '91.69532178', 'Temperature': '28.96017885'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+### Primary Crop Details
+- **Crop Name:** Muskmelon
+- **Optimal Temperature Range:** 25°C - 30°C
+- **Water Requirement:** High water content, requires consistent moisture
+
+### Secondary Crop Suggestion
+- **Secondary Crop:** Cucumber (compatible with muskmelon's growth requirements)
+
+### Best Irrigation Method
+- **Irrigation Type:** Drip Irrigation (efficient and reduces soil erosion)
+- **Frequency:** Water every 2 days during peak temperature
+
+### Fertilizer Type & Dosage
+- **NPK Ratio:**
+    - Nitrogen (N): 15 ppm (additional supplement to meet optimal needs)
+    - Phosphorus (P): 10 ppm (supports root development)
+    **Total NPK Application:** Every 30 days during growth phase
+
+### Essential Care Tips
+- **Soil pH Management:** Maintain a slightly acidic to neutral soil pH for optimal muskmelon growth.
+- **Humidity Monitoring:** Ensure humidity levels above 70% to prevent stress. 
+- **Temperature Control:** Use shading if temperature exceeds 32°C to avoid damage.
+
+**Note:** Recommendations are based on the provided data and may need adjustments according to specific farm conditions or evolving weather patterns.
+================================================================================
+
+Primary Crop: muskmelon
+Input Conditions: {'N': '80', 'P': '18', 'K': '51', 'pH': '6.706053225', 'Rainfall': '20.76582087', 'Humidity': '91.81758779', 'Temperature': '28.05380704'}
+LLaMA Suggestions:
+Here are the farming suggestions based on the given soil and weather conditions:
+
+**Soil Analysis**
+
+* Nitrogen (N): 80 ppm (Good)
+* Phosphorus (P): 18 ppm (Deficient)
+* Potassium (K): 51 ppm (Sufficient)
+
+**Weather Conditions**
+
+* pH Level: 6.7 (Neutral to Slightly Acidic)
+* Rainfall: 20.77 mm (Average)
+* Humidity: 91.82% (High)
+* Temperature: 28.05°C (Warm)
+
+**Farming Suggestions**
+
+* **Primary Crop**: muskmelon
+* **Secondary Crop**: Cucumber (complementary crop for efficient water usage and pest control)
+* **Best Irrigation Method**: Drip irrigation to conserve water and reduce evaporation
+* **Fertilizer Type & Dosage**:
+	+ Nitrogen: 100 ppm (apply nitrogen-rich fertilizer at planting time)
+	+ Phosphorus: 50 ppm (apply phosphorus-rich fertilizer 30 days after planting)
+	+ Potassium: maintain potassium levels between 40-60 ppm
+* **Essential Care Tips**
+	1. Maintain soil moisture by frequent watering.
+	2. Apply mulch to retain soil temperature and reduce weed growth.
+	3. Monitor for pests like aphids, whiteflies, and spider mites, and use organic pest control methods whenever possible.
+
+**Additional Tips**
+
+* Regularly check the pH level of the soil to ensure it remains within the optimal range (6.0-7.0) for muskmelon growth.
+* Consider using a cover crop between seasons to improve soil health and reduce erosion.
+================================================================================
+
+Primary Crop: apple
+Input Conditions: {'N': '0', 'P': '145', 'K': '205', 'pH': '5.52078314', 'Rainfall': '113.9760462', 'Humidity': '90.09877774', 'Temperature': '21.22503442'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+* **Secondary Crop:** Strawberry (complements apple with similar growing conditions and requirements)
+* **Best Irrigation Method:**
+	+ Soil Moisture Level: 60-70% (adjust according to rainfall data)
+	+ Frequency: Water every 3-4 days during dry spells
+* **Fertilizer Type & Dosage:**
+	+ Nitrogen (N): Apply 100 ppm in the form of ammonium sulfate, divided into two doses (50 ppm each) at planting and after 6 weeks
+	+ Phosphorus (P): No additional application required (145 ppm is sufficient)
+	+ Potassium (K): Apply 20 ppm in the form of potassium chloride every 8 weeks to maintain optimal levels
+* **Essential Care Tips:**
+	+ Monitor pH level closely; adjust fertilizer applications accordingly (aim for a pH between 6.0 and 7.0)
+	+ Maintain humidity above 70% during fruiting stages
+	+ Temperature control is crucial; avoid exposing plants to extreme temperatures (above 30°C or below 15°C)
+
+**Note:** These suggestions are based on the provided data and may vary depending on specific regional conditions, soil composition, and other factors.
+================================================================================
+
+Primary Crop: apple
+Input Conditions: {'N': '2', 'P': '123', 'K': '205', 'pH': '5.739652177000001', 'Rainfall': '124.9831618', 'Humidity': '90.78572467', 'Temperature': '22.36629253'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+**Crop Selection**
+* Primary Crop: Apple
+* Secondary Crop: Carrot (complementary crop for nitrogen fixation)
+
+**Irrigation Method**
+* Best Irrigation Method: Drip Irrigation (efficient water use with minimal runoff)
+
+**Fertilizer Application**
+* Fertilizer Type: Balanced NPK (nitrogen-phosphorus-potassium)
+	+ Nitrogen: 15-20% (considering low nitrogen levels in soil)
+	+ Phosphorus: 10-15%
+	+ Potassium: 10-15%
+
+**Essential Care Tips**
+
+* **Soil pH Adjustment**: Lime application to raise pH level above 6.0 for optimal apple growth
+* **Water Management**: Monitor rainfall and adjust irrigation schedule to prevent waterlogged soil
+* **Pest Control**: Regularly inspect plants for signs of pests and diseases, using integrated pest management (IPM) techniques as needed
+
+**Additional Considerations**
+
+* Apple trees require well-draining soil with a pH between 6.0 and 7.0.
+* Carrots prefer slightly acidic to neutral soil with good drainage.
+* Humidity levels above 80% may promote disease development in apple trees; monitor for signs of powdery mildew or scab.
+
+Please note that these suggestions are based on the provided input features and are meant to serve as a general guideline. Local conditions, specific crop requirements, and personal preferences should also be taken into account when implementing farming practices.
+================================================================================
+
+Primary Crop: apple
+Input Conditions: {'N': '33', 'P': '143', 'K': '204', 'pH': '5.814434775', 'Rainfall': '122.5391946', 'Humidity': '91.95769858', 'Temperature': '21.1316077'}
+LLaMA Suggestions:
+**Farming Suggestions for Apple Orchard**
+
+* **Primary Crop:** Apple
+* **Secondary Crop:** Complementary crops such as lettuce, herbs (e.g., parsley), and clover can be intercropped to enhance biodiversity and soil health.
+* **Best Irrigation Method:**
+	+ Frequency: Apply water every 10-14 days during the first year of planting and adjust according to weather conditions.
+	+ Method: Drip irrigation or sprinkler systems are recommended for efficient water distribution, reducing evaporation, and minimizing runoff.
+	+ Additional Tips: Monitor soil moisture regularly to avoid overwatering and ensure proper drainage.
+* **Fertilizer Type & Dosage:**
+	+ Nitrogen (N): Apply 50 kg/ha of ammonium sulfate (21-0-0 NPK) in the first year after planting, followed by 30 kg/ha annually for the next two years. Reduce to maintenance levels thereafter.
+	+ Phosphorus (P): Apply 20 kg/ha of diammonium phosphate (18-46-0 N-P-K) during planting and an additional 10 kg/ha in the spring after the first year.
+	+ Potassium (K): Apply 40 kg/ha of potassium chloride (0-0-60 K) annually starting from the second year after planting.
+* **Essential Care Tips:**
+	+ Pruning: Regular pruning during dormancy promotes healthy growth and encourages fruiting.
+	+ Pest Control: Monitor for pests like aphids, codling moths, and spider mites. Use integrated pest management techniques when necessary.
+	+ Disease Prevention: Practice good sanitation, ensure proper air circulation, and use fungicides if fungal diseases are detected.
+
+**Considerations Based on Soil Conditions:**
+
+* The soil pH is slightly acidic (5.814), which is suitable for apple cultivation but may require adjustments to fertilizer applications to avoid overacidification.
+* High potassium levels (204 ppm) suggest that potassium-based fertilizers should be applied judiciously, as excessive application can lead to soil degradation.
+
+**Considerations Based on Weather Conditions:**
+
+* The rainfall of 122.5391946 mm is adequate for the initial years but might require supplemental irrigation in subsequent seasons.
+* The temperature average of 21.131°C and humidity levels around 92% support apple growth, but extreme weather conditions may necessitate protective measures (e.g., covering) during cold or hot snaps.
+================================================================================
+
+Primary Crop: apple
+Input Conditions: {'N': '36', 'P': '144', 'K': '196', 'pH': '6.496934492', 'Rainfall': '115.3611268', 'Humidity': '94.50528753', 'Temperature': '23.65167552'}
+LLaMA Suggestions:
+Here are the structured farming suggestions based on the given soil and weather conditions:
+
+**Crop Recommendations**
+
+* Primary Crop: Apple
+	+ Variety: Red Delicious (due to optimal pH level between 6.0-7.0)
+* Secondary Crop: Cucumber (can be intercropped with apple trees, requires minimal space and similar climate conditions)
+
+**Irrigation Method**
+
+* Best Irrigation Method: Drip Irrigation System
+	+ Frequency: Every 2-3 days during hot temperatures (>25°C) and low rainfall periods
+
+**Fertilizer Recommendations**
+
+* Fertilizer Type: Balanced NPK (Nitrogen, Phosphorus, Potassium)
+	+ Dosage:
+		- Nitrogen: +30 ppm (to maintain optimal nitrogen level for apple trees)
+		- Phosphorus: 0 ppm (already sufficient at 144 ppm)
+		- Potassium: -10 ppm (to avoid excessive potassium levels)
+
+**Essential Care Tips**
+
+* Temperature Management: Provide shade for young apple tree saplings during hot temperatures (>25°C)
+* Soil Moisture Monitoring: Regularly check soil moisture to ensure optimal water retention
+* Pest and Disease Management: Monitor for common pests like aphids, codling moths, and diseases like powdery mildew and scab
+
+Note: The above suggestions are based on general farming practices and may vary depending on specific regional conditions.
+================================================================================
+
+Primary Crop: apple
+Input Conditions: {'N': '22', 'P': '144', 'K': '196', 'pH': '6.4992268210000015', 'Rainfall': '117.0761277', 'Humidity': '91.68748063', 'Temperature': '21.91191314'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+### Primary Crop Details
+
+* **Crop:** Apple
+* **Expected Yield:** High (given optimal soil and weather conditions)
+
+### Secondary Crop Recommendation
+
+* **Secondary Crop:** Strawberry
+	+ Reason: Strawberries complement apples well in terms of growth requirements and can thrive under similar conditions, making them a suitable secondary crop for integrated farming.
+
+### Best Irrigation Method
+
+* **Drip Irrigation System**
+	+ Reason: Drip irrigation ensures direct water delivery to the roots, reducing evaporation losses and minimizing water consumption while keeping the soil moist and preventing overwatering.
+
+### Fertilizer Type & Dosage
+
+* **Fertilizer:** Balanced NPK (Nitrogen-Phosphorus-Potassium) 10-20-15
+	+ Reason: Based on the given nitrogen, phosphorus, and potassium levels in the soil, a balanced fertilizer is necessary to adjust these nutrient levels for optimal apple growth.
+	+ **Dosage:** Apply 1000 grams per acre as a basal dose followed by side dressing with 500 grams per acre after every two weeks until harvesting.
+
+### Essential Care Tips
+
+* **Soil pH Adjustment:** Maintain a slightly acidic to neutral soil pH (around 6.5) for optimal apple tree growth and health.
+* **Pruning:** Regular pruning is essential for maximizing fruit yield and ensuring good air circulation within the orchard, which helps prevent diseases.
+* **Pest and Disease Management:** Monitor regularly for pests like aphids, codling moths, and diseases such as powdery mildew, scab, and fire blight. Use integrated pest management (IPM) strategies that combine chemical and organic methods.
+
+### Additional Considerations
+
+- **Rainwater Harvesting:** Implement a rainwater harvesting system to collect and store rainfall for irrigation during dry spells or periods of high evapotranspiration.
+- **Mulching:** Apply organic mulch around the base of apple trees to retain moisture, suppress weeds, and moderate soil temperature.
+================================================================================
+
+Primary Crop: orange
+Input Conditions: {'N': '11', 'P': '14', 'K': '5', 'pH': '6.946354724', 'Rainfall': '115.56837759999998', 'Humidity': '94.8933184', 'Temperature': '11.50322938'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+### Primary Crop: Orange
+
+#### Soil Requirements
+- pH Level: 6.5-7.0 ( Current pH Level: 6.946354724 is within the optimal range )
+- Nutrient Availability:
+  - Nitrogen: 11 ppm ( Optimal: 20-30 ppm )
+  - Phosphorus: 14 ppm ( Optimal: 15-30 ppm )
+  - Potassium: 5 ppm ( Optimal: 40-60 ppm )
+
+#### Weather Conditions
+- Rainfall: 115.56837759999998 mm ( within normal range for orange cultivation )
+- Humidity: 94.8933184% ( high humidity supports growth, but careful to prevent diseases )
+- Temperature: 11.50322938°C ( optimal temperature range for citrus trees is between 10°C and 30°C )
+
+#### Secondary Crop
+- Alfalfa or clover can serve as a beneficial cover crop to improve soil fertility.
+
+#### Best Irrigation Method
+- Drip irrigation system to conserve water and prevent over-saturation of the soil.
+
+#### Fertilizer Type & Dosage
+- Apply a balanced fertilizer (N-P-K ratio) with a concentration of 20-10-15.
+- Recommended application rate is 1000 kg/ha, but adjust according to specific needs based on soil analysis.
+
+#### Essential Care Tips
+- Regular pruning and thinning to promote healthy tree growth and fruit production.
+- Protect trees from extreme weather conditions (frost, wind).
+- Monitor for pests and diseases frequently, taking prompt action when necessary.
+================================================================================
+
+Primary Crop: orange
+Input Conditions: {'N': '13', 'P': '16', 'K': '8', 'pH': '6.949838549', 'Rainfall': '100.1967854', 'Humidity': '93.12316972', 'Temperature': '34.74004942'}
+LLaMA Suggestions:
+Here are the farming suggestions based on the given soil and weather conditions:
+
+**Farming Suggestions**
+
+* **Primary Crop:** Orange
+* **Secondary Crop:** Grapefruit (due to similar soil requirements and climate tolerance)
+* **Best Irrigation Method:** Drip irrigation (efficient use of water, reduces evaporation and runoff)
+* **Fertilizer Type & Dosage:**
+	+ Nitrogen: 50-60 kg/ha (ammonium nitrate), applied in two splits
+	+ Phosphorus: 30-40 kg/ha (diammonium phosphate), applied once at planting time
+	+ Potassium: 20-25 kg/ha (potassium chloride), applied once at planting time
+* **Essential Care Tips:**
+	+ Soil pH management: Maintain pH between 6.0 and 7.0 to ensure optimal nutrient availability
+	+ Irrigation monitoring: Monitor soil moisture levels to avoid waterlogging and ensure adequate water supply
+	+ Pest and disease management: Regularly inspect crops for signs of pests or diseases, and apply integrated pest management techniques as needed
+
+Note that these suggestions are based on general guidelines and may require adjustments depending on specific farm conditions.
+================================================================================
+
+Primary Crop: orange
+Input Conditions: {'N': '14', 'P': '19', 'K': '14', 'pH': '6.699164936', 'Rainfall': '108.0638166', 'Humidity': '94.35815354', 'Temperature': '17.68408797'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+### Primary Crop Details
+- **Crop Name**: Orange
+- **Growth Period**: 9-12 months
+
+### Soil Requirements
+- **Nitrogen Level**: 14 ppm (suitable)
+- **Phosphorus Level**: 19 ppm (optimal for fruit growth)
+- **Potassium Level**: 14 ppm (moderate, suitable for citrus trees)
+
+### Weather Considerations
+- **Temperature Range**: Optimal for orange cultivation (average temperature around 20°C)
+- **Rainfall**: Sufficient rainfall supports healthy tree growth and fruit development
+
+### Recommendations
+#### Secondary Crop
+- **Crop Name**: Spinach or Lettuce (shade-loving, can coexist with oranges)
+
+#### Best Irrigation Method
+- **Drip Irrigation System** for precise water delivery to roots
+
+#### Fertilizer Type & Dosage
+- **Nitrogen: Phosphorus: Potassium Ratio = 10:20:5**
+  - Apply NPK fertilizer at a rate of 200 kg/ha, split into two applications (spring and autumn)
+
+#### Essential Care Tips
+- **Irrigation Frequency**: Water every 4 days in spring and summer months. Adjust frequency based on rainfall.
+- **Pruning**: Prune trees annually to maintain shape and promote fruiting
+- **Pest Management**: Regularly monitor for pests, especially citrus canker, aphids, and whiteflies. Use integrated pest management strategies
+
+### pH Level Adjustment (if necessary)
+Given the pH level of 6.699164936 is close to optimal for orange trees (pH range: 6.0-7.0), no adjustments are recommended unless soil test results indicate a need.
+
+### Additional Tips
+- **Monitor Soil Moisture**: Check soil moisture regularly, especially during hot and dry periods.
+- **Mulching**: Apply organic mulch around the base of the tree to retain moisture and suppress weeds
+================================================================================
+
+Primary Crop: orange
+Input Conditions: {'N': '0', 'P': '18', 'K': '14', 'pH': '7.207991261', 'Rainfall': '114.41617859999998', 'Humidity': '92.00719952', 'Temperature': '29.77149434'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+* **Crop Selection**
+	+ Primary Crop: Orange
+	+ Secondary Crop: Lemon (for cross-pollination and to utilize similar growing conditions)
+* **Irrigation Method**: Drip Irrigation
+	+ Advantages: Water conservation, reduced evaporation, and minimal soil erosion
+* **Fertilizer Type & Dosage**
+	+ NPK Fertilizer (20-10-15): Apply 500 kg/ha in three split doses at planting, first fruit drop, and after harvesting
+	+ Note: Supplement with micro-nutrients like Magnesium Sulfate (MgSO4) to ensure optimal nutrient balance
+* **Essential Care Tips**
+	+ Soil Preparation: Maintain a pH range of 6.0-7.5; amend soil with lime if necessary
+	+ Pest Management: Regularly monitor for pests like aphids, whiteflies, and scale insects; use Integrated Pest Management (IPM) techniques whenever possible
+	+ Pruning: Prune trees annually to promote healthy growth, increase fruit production, and maintain tree shape
+
+**Additional Considerations**
+
+* **Rainwater Harvesting**: Collect rainwater in a storage tank for irrigation purposes during dry periods
+* **Mulching**: Apply organic mulch around the base of plants to retain moisture, suppress weeds, and regulate soil temperature
+================================================================================
+
+Primary Crop: orange
+Input Conditions: {'N': '33', 'P': '14', 'K': '8', 'pH': '7.684420446', 'Rainfall': '110.6823944', 'Humidity': '92.9641969', 'Temperature': '21.03200078'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+* **Secondary Crop**: Lemon or Grapefruit (complementary crops to Orange)
+	+ Reason: They share similar growing conditions and can benefit from mutual nutrient sharing.
+* **Best Irrigation Method**: Drip Irrigation
+	+ Reason: Conserves water, reduces evaporation, and delivers nutrients directly to the roots.
+* **Fertilizer Type & Dosage**:
+	+ NPK Fertilizer ( Nitrogen 12-24-8)
+		- Apply at planting stage: 2.5 kg per acre
+		- Side-dressing after 3 months: 1.25 kg per acre
+	+ Reason: Balanced fertilizer to promote healthy growth and fruit development.
+* **Essential Care Tips**:
+	+ Monitor pH levels regularly and adjust as necessary (target range: 6.0 - 7.5)
+	+ Maintain consistent moisture levels, but avoid waterlogging
+	+ Provide adequate sunlight (average of 12 hours/day) and maintain temperature above 15°C
+================================================================================
+
+Primary Crop: papaya
+Input Conditions: {'N': '47', 'P': '46', 'K': '52', 'pH': '6.502289472999999', 'Rainfall': '206.3999208', 'Humidity': '91.40301608', 'Temperature': '23.19451074'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+* **Primary Crop:** Papaya
+* **Secondary Crop:** Sweet Potato (thrives well under similar climate conditions)
+* **Best Irrigation Method:**
+	+ Method: Drip Irrigation
+	+ Frequency: Water every 2 days, considering rainfall and humidity levels
+* **Fertilizer Type & Dosage:**
+	+ N-P-K Fertilizer (10-20-15)
+	+ Application: 1st week of April, June, and September
+	+ Dosage: 5 kg/acre for Papaya, 3 kg/acre for Sweet Potato
+* **Essential Care Tips:**
+	+ Prune papaya plants regularly to maintain a balanced canopy and promote fruiting.
+	+ Monitor soil pH levels; adjust fertilizers accordingly to prevent over-acidification.
+	+ Apply fungicides to control diseases like leaf spot, which can spread in high humidity conditions.
+================================================================================
+
+Primary Crop: papaya
+Input Conditions: {'N': '39', 'P': '69', 'K': '53', 'pH': '6.964955435', 'Rainfall': '241.8202079', 'Humidity': '93.02357765', 'Temperature': '25.9300384'}
+LLaMA Suggestions:
+Here are the farming suggestions based on the given soil and weather conditions:
+
+**Soil Analysis**
+* Nitrogen (N): 39 ppm - Sufficient for papaya cultivation
+* Phosphorus (P): 69 ppm - Adequate, but may require supplementation
+* Potassium (K): 53 ppm - Sufficient
+
+**Weather Conditions**
+* pH Level: 6.964955435 - Neutral to slightly alkaline, suitable for papaya
+* Rainfall: 241.8202079 mm - Abundant rainfall, ideal for papaya cultivation
+* Humidity: 93.02357765% - High humidity, beneficial for papaya growth
+* Temperature: 25.9300384°C - Optimal temperature range for papaya
+
+**Farming Suggestions**
+
+* **Primary Crop:** Papaya (Carica papaya)
+* **Secondary Crop:** Complement with Chilli peppers or Tomatoes to enhance soil health and pest resistance
+* **Best Irrigation Method:** Drip irrigation to reduce water loss and optimize nutrient delivery
+* **Fertilizer Type & Dosage:**
+	+ Nitrogen-based fertilizer (e.g., Urea): 200 kg/ha, applied in 2 split doses (at planting and 30 days after transplanting)
+	+ Phosphorus-based fertilizer (e.g., DAP): 100 kg/ha, applied at planting
+* **Essential Care Tips:**
+	1. Regularly monitor soil moisture and adjust irrigation schedule accordingly.
+	2. Prune papaya plants regularly to promote healthy growth and fruiting.
+	3. Maintain a weed-free environment to prevent competition for nutrients and water.
+
+**Additional Recommendations**
+
+* Monitor soil pH regularly and adjust fertilizer applications based on soil test results.
+* Consider incorporating organic amendments, such as compost or manure, to enhance soil fertility and structure.
+* Implement integrated pest management (IPM) strategies to minimize chemical usage and promote ecosystem balance.
+================================================================================
+
+Primary Crop: papaya
+Input Conditions: {'N': '69', 'P': '66', 'K': '49', 'pH': '6.52711001', 'Rainfall': '92.11877372', 'Humidity': '90.17015833', 'Temperature': '40.00439101'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+### Primary Crop: Papaya
+
+#### Soil Requirements:
+
+* Nitrogen: sufficient (69 ppm)
+* Phosphorus: sufficient (66 ppm)
+* Potassium: sufficient (49 ppm)
+* pH Level: slightly acidic to neutral (6.5)
+
+#### Climate Conditions:
+
+* Rainfall: moderate (92 mm)
+* Humidity: high (90%)
+* Temperature: warm (40°C)
+
+### Secondary Crop:
+Sweet Potato
+
+### Best Irrigation Method:
+Drip Irrigation System
+
+### Fertilizer Type & Dosage:
+
+* Nitrogen: 100 kg/ha of Urea
+* Phosphorus: 50 kg/ha of Di-Ammonium Phosphate (DAP)
+* Potassium: 75 kg/ha of Muriate of Potash (MOP)
+
+### Essential Care Tips:
+
+* Soil pH maintenance between 6.0 and 7.0 for optimal growth
+* Regular monitoring of soil moisture to prevent overwatering
+* Prune papaya plants regularly to promote healthy growth and fruit production
+* Use black polythene mulching around the plants to retain moisture and suppress weeds
+
+### Additional Tips:
+
+* Apply 2% neem cake at planting time to control pests and diseases
+* Monitor for fruit flies and other pests, and use integrated pest management techniques as necessary
+================================================================================
+
+Primary Crop: papaya
+Input Conditions: {'N': '59', 'P': '62', 'K': '52', 'pH': '6.6086676839999985', 'Rainfall': '103.8235658', 'Humidity': '93.10887229', 'Temperature': '43.67549305'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+* **Primary Crop:** Papaya
+* **Secondary Crop:** Okra (complementary crop for papaya, provides shade and improves soil health)
+* **Best Irrigation Method:**
+	+ Drip irrigation to minimize water loss due to evaporation and runoff
+	+ Water scheduling based on 60-70% of the rainfall received (to avoid waterlogging)
+* **Fertilizer Type & Dosage:**
+	+ Nitrogen: Apply 100 kg/ha as Urea (40%) to compensate for low nitrogen levels
+	+ Phosphorus: Apply 50 kg/ha as DAP (46%) to promote root growth and fruiting
+	+ Potassium: Monitor potassium levels, no application recommended based on current levels
+* **Essential Care Tips:**
+	+ Prune papaya plants regularly to maintain a strong canopy and promote fruiting
+	+ Monitor for pests like mealybugs, whiteflies, and aphids; apply neem oil or insecticidal soap as needed
+	+ Mulch around the base of plants to retain moisture and suppress weeds
+================================================================================
+
+Primary Crop: papaya
+Input Conditions: {'N': '63', 'P': '58', 'K': '47', 'pH': '6.864143752', 'Rainfall': '144.66564440000005', 'Humidity': '90.75379971', 'Temperature': '26.83054058'}
+LLaMA Suggestions:
+Based on the given soil and weather conditions, here are the structured farming suggestions:
+
+**Crop Selection**
+- Primary Crop: Papaya (as specified)
+- Secondary Crop: Chilli Pepper or Tomato for companion planting benefits
+
+**Irrigation Method**
+- Best Irrigation Method: Drip Irrigation to reduce water loss and ensure precise nutrient delivery
+
+**Fertilization Plan**
+- Fertilizer Type:
+  - NPK (Nitrogen, Phosphorus, Potassium) based fertilizer
+  - Organic alternatives like Compost Tea or Vermicompost for long-term soil health improvement
+- Dosage:
+  - Initial application: 1.5 kg of NPK per acre to address nitrogen deficiency
+  - Follow-up applications: Adjust dosage based on soil test results, starting with 0.75 kg of NPK per acre
+
+**Essential Care Tips**
+- Soil pH adjustment: Maintain the current pH level; Papaya can tolerate slightly acidic conditions (pH 6.5-7)
+- Rainwater harvesting: Collect and store rainwater for supplementary irrigation to reduce water stress
+- Crop rotation: Rotate Papaya with secondary crops every 3-4 months to maintain soil fertility and prevent pests and diseases buildup
+
+**Additional Recommendations**
+- Monitor temperature fluctuations; high temperatures above 30°C can cause fruit drop or reduced yield quality.
+- Consider installing a shading system or using mulch to retain moisture and regulate soil temperature.
+================================================================================
+
+Primary Crop: coconut
+Input Conditions: {'N': '34', 'P': '15', 'K': '34', 'pH': '5.677282677999999', 'Rainfall': '224.70069530000004', 'Humidity': '91.10510371', 'Temperature': '27.05826457'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+### Primary Crop: Coconut
+
+**Secondary Crop:** Banana (coconut and banana have complementary growth requirements, and banana's rapid growth rate helps to shade the soil, reducing moisture loss)
+
+**Best Irrigation Method:** Drip irrigation or Sprinkler irrigation with a focus on efficient water distribution. The high rainfall and humidity levels indicate that coconut plants are receiving sufficient moisture, but controlled irrigation will help prevent overwatering.
+
+**Fertilizer Type & Dosage:**
+
+*   **Nitrogen (N):** Apply ammonium sulfate at 150 kg/ha to correct the slightly low nitrogen level.
+*   **Phosphorus (P):** Apply diammonium phosphate at 75 kg/ha to address phosphorus deficiency and promote root development.
+
+### Essential Care Tips:
+
+1.  **Soil pH Management:** Maintain a slightly acidic soil pH between 6.0-7.0 for optimal coconut growth.
+2.  **Regular Pruning:** Regularly prune the coconut tree to encourage healthy growth, increase fruit production, and prevent disease entry points.
+3.  **Mulching:** Mulch around the base of the plant to retain moisture, suppress weeds, and maintain a stable soil temperature.
+
+Monitor the weather conditions closely and adjust these suggestions as necessary based on seasonal variations or unexpected changes in rainfall patterns.
+================================================================================
+
+Primary Crop: coconut
+Input Conditions: {'N': '24', 'P': '27', 'K': '34', 'pH': '6.203376525', 'Rainfall': '145.0583117', 'Humidity': '95.11320315', 'Temperature': '28.87862994'}
+LLaMA Suggestions:
+Based on the provided soil and weather conditions, here are some farming suggestions for coconut cultivation:
+
+**Crop Details**
+
+* Primary Crop: Coconut (Cocos nucifera)
+* Maturity Period: 7-10 years
+* Yield per Tree: 50-100 coconuts per year
+
+**Secondary Crop**
+
+* Secondary Crop: Banana (Musa acuminata) or Aubergine (Solanum melongena), as they have similar growing requirements and can benefit from coconut's shade.
+
+**Best Irrigation Method**
+
+* Drip Irrigation System
+	+ Frequency: 2-3 times a week during summer months, 1 time a week in winter months.
+	+ Watering Time: 30 minutes to 1 hour per session.
+
+**Fertilizer Type & Dosage**
+
+* NPK Fertilizer (14-14-14)
+	+ Initial Application (First 6 months): 50 kg/hectare
+	+ Subsequent Applications (Every 3 months): 25 kg/hectare
+* Micronutrient Fertilizers:
+	+ Copper: 0.5 kg/hectare every 6 months
+	+ Zinc: 0.5 kg/hectare every 6 months
+
+**Essential Care Tips**
+
+* Soil pH Maintenance: Regularly monitor and adjust the pH level to maintain an optimal range of 6.0-7.0.
+* Moisture Management: Keep soil consistently moist but not waterlogged, as coconut trees are sensitive to excessive moisture.
+* Pest Control: Regularly inspect for pests like scale insects, mealybugs, and fruit flies; use organic pest control methods whenever possible.
+
+**Additional Tips**
+
+* Plant multiple coconut trees together to provide mutual shade and support each other's growth.
+* Prune the tree regularly to maintain a healthy shape and promote uniform growth.
+================================================================================
+
+Primary Crop: coconut
+Input Conditions: {'N': '29', 'P': '8', 'K': '28', 'pH': '6.100429497', 'Rainfall': '214.4128874', 'Humidity': '91.72546257', 'Temperature': '26.87037587'}
+LLaMA Suggestions:
+Based on the given soil and weather conditions, here are some farming suggestions:
+
+**Crop Selection**
+
+* Primary Crop: Coconut (recommended due to suitable pH level and rainfall)
+* Secondary Crop: Cassava or yam (complementary crops for coconut plantations)
+
+**Irrigation Method**
+
+* Best Irrigation Method: Drip Irrigation (conserves water, reduces runoff, and prevents soil erosion)
+
+**Fertilizer Type & Dosage**
+
+* Nitrogen-rich fertilizer: 150-200 kg/ha of Ammonium Sulphate (urea-based)
+	+ Reason: coconut requires moderate to high nitrogen levels for optimal growth
+* Phosphorus-rich fertilizer: 100-120 kg/ha of Diammonium Phosphate (DAP)
+	+ Reason: phosphorus is essential for root development and nodulation
+* Potassium-rich fertilizer: 80-100 kg/ha of Muriate of Potash (MOP)
+	+ Reason: potassium helps in maintaining plant health, resistance to disease
+
+**Essential Care Tips**
+
+* Regular pruning and training to maintain optimal canopy density and promote fruiting
+* Mulching around the base of plants to retain moisture and suppress weeds
+* Monitoring for pests and diseases like leaf minor, nematodes, and fungal infections
+================================================================================
+
+Primary Crop: coconut
+Input Conditions: {'N': '36', 'P': '27', 'K': '26', 'pH': '6.25449571', 'Rainfall': '171.6262299', 'Humidity': '95.78923137', 'Temperature': '26.58413917'}
+LLaMA Suggestions:
+Based on the given soil and weather conditions, here are the farming suggestions:
+
+**Farming Suggestions**
+
+### Primary Crop: Coconut
+
+#### Secondary Crop:
+* Cardamom (for its ability to enhance coconut growth through efficient nutrient utilization)
+
+#### Best Irrigation Method:
+* Drip Irrigation System (to ensure optimal water distribution and prevent overwatering)
+
+#### Fertilizer Type & Dosage:
+
+| Nutrient | Recommended Dosage |
+| --- | --- |
+| Nitrogen (N) | 1.2 kg/ha (every 6 weeks) |
+| Phosphorus (P) | 0.8 kg/ha (every 6 weeks) |
+| Potassium (K) | 1.5 kg/ha (every 3 months) |
+
+#### Essential Care Tips:
+
+* **Water Management:** Monitor rainfall and adjust irrigation accordingly to prevent waterlogged soil.
+* **Pest Control:** Regularly inspect the coconut trees for signs of pests like termites, rodents, or scale insects.
+* **Soil pH Balance:** Maintain a slightly acidic pH (6.0-6.5) to promote optimal nutrient availability.
+* **Pruning and Training:** Prune coconut trees regularly to maintain their shape and encourage healthy growth.
+
+**Additional Recommendations**
+
+* Apply organic compost (5 tons/ha) annually to enhance soil fertility and structure.
+* Conduct regular soil tests to monitor nutrient levels and adjust fertilizer applications accordingly.
+================================================================================
+
+Primary Crop: coconut
+Input Conditions: {'N': '32', 'P': '11', 'K': '31', 'pH': '6.205931637999999', 'Rainfall': '134.84190690000003', 'Humidity': '93.31410447', 'Temperature': '25.06871967'}
+LLaMA Suggestions:
+Here are the farming suggestions based on the given input features:
+
+**Farming Suggestions**
+
+| **Parameter** | **Value** |
+| --- | --- |
+| **Primary Crop** | Coconut |
+| **Secondary Crop** | Cucumber or Spinach (complementary crops for coconut) |
+| **Best Irrigation Method** | Drip irrigation to minimize water loss and optimize nutrient delivery |
+| **Fertilizer Type & Dosage** | |
+	* Nitrogen: 50 kg/ha (additional application to supplement nitrogen)
+	* Phosphorus: 25 kg/ha (phosphate fertilizer for root development and fruit growth)
+	* Potassium: No additional application required, as potassium levels are within normal range |
+| **Essential Care Tips** | 
+	* Regular pruning to maintain tree shape and promote healthy growth
+	* Mulching around the base of the trees to retain moisture and suppress weeds
+
+**Justification**
+
+- Coconut is a suitable crop for the given climate (temperature: 25°C) and rainfall (134 mm).
+- Secondary crops like cucumber or spinach can be intercropped with coconut, taking advantage of its shade and optimizing land use.
+- Drip irrigation will conserve water, reduce evaporation losses, and deliver nutrients directly to the roots.
+- Nitrogen supplement is recommended to promote healthy leaf growth and fruit production.
+- Phosphorus application will support root development and fruit growth.
+
+Note: These suggestions are based on general knowledge of agriculture and may not be applicable in specific situations or locations. Consult a local agricultural expert for personalized advice.
+================================================================================
+
+Primary Crop: cotton
+Input Conditions: {'N': '117', 'P': '56', 'K': '15', 'pH': '7.368258226', 'Rainfall': '89.1188212', 'Humidity': '77.0543546', 'Temperature': '25.99237426'}
+LLaMA Suggestions:
+Here are the farming suggestions based on the given soil and weather conditions:
+
+**Crop Selection**
+- Primary Crop: Cotton
+- Secondary Crop: Cowpea (as a nitrogen-fixing legume to complement cotton)
+
+**Irrigation Method**
+- Best Irrigation Method: Drip Irrigation (to reduce water loss, prevent erosion, and improve nutrient uptake)
+
+**Fertilizer Type & Dosage**
+- Nitrogen: 150 ppm (additional 33 ppm to compensate for low initial levels)
+- Phosphorus: 80 ppm (24 ppm increase to support cotton growth)
+- Potassium: 30 ppm (15 ppm increase to maintain balanced fertilization)
+- Fertilizer Type: Balanced NPK (Nitrogen, Phosphorus, Potassium) Fertilizer
+
+**Essential Care Tips**
+- Maintain pH Level between 6.5 and 7.5 for optimal cotton growth
+- Monitor soil moisture regularly, as cotton is sensitive to drought
+- Apply mulch to retain moisture, suppress weeds, and regulate temperature
+- Crop rotation: Rotate cowpea with cotton every 2 years to maintain soil fertility and reduce pests and diseases
+
+**Additional Considerations**
+- Based on rainfall of 89.1188212 mm, supplemental irrigation may be necessary during dry spells
+- High humidity (77.0543546%) indicates a moderate risk of fungal diseases; monitor for symptoms and apply fungicides if necessary
+================================================================================
+
+Primary Crop: cotton
+Input Conditions: {'N': '111', 'P': '39', 'K': '22', 'pH': '6.135025006', 'Rainfall': '88.57395505', 'Humidity': '80.35090459999998', 'Temperature': '22.60361557'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+**Crop Selection**
+- Primary Crop: Cotton (suitable for temperate climate)
+- Secondary Crop: Corn or Sorghum (rotation crop to maintain soil health)
+
+**Irrigation Method**
+- Drip Irrigation: Effective for cotton, reduces water waste and promotes healthy growth
+- Recommended watering schedule: 2-3 times a week, depending on rainfall
+
+**Fertilizer Application**
+- Nitrogen: 100 ppm (top dressing after 6 weeks of planting)
+  - Type: Urea (45% N)
+  - Dosage: 200 kg/ha
+- Phosphorus: 50 ppm (fertigation during planting season)
+  - Type: DAP (18-46-0)
+  - Dosage: 150 kg/ha
+- Potassium: 30 ppm (fertigation every 8 weeks)
+  - Type: MOP (0-0-60)
+  - Dosage: 100 kg/ha
+
+**Crop Care Tips**
+- Monitor pH levels and adjust as necessary to maintain optimal range of 6.0-7.0
+- Maintain humidity levels above 70% for healthy growth
+- Avoid excessive waterlogging to prevent root rot
+- Regularly inspect crop for pests and diseases
+================================================================================
+
+Primary Crop: cotton
+Input Conditions: {'N': '108', 'P': '46', 'K': '17', 'pH': '6.93221485', 'Rainfall': '65.0247867', 'Humidity': '84.87668973', 'Temperature': '24.3017998'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+* **Secondary Crop:** Soybean or Sorghum (rotational crops that complement cotton and improve soil health)
+* **Best Irrigation Method:**
+	+ Drip irrigation to conserve water and reduce evaporation losses
+	+ Water application rate of 4-6 mm/day for optimal growth
+* **Fertilizer Type & Dosage:**
+	+ NPK (Nitrogen, Phosphorus, Potassium) - 15-15-15 ratio fertilizer
+	+ Apply 200 kg/ha of NPK at sowing time
+	+ Additional side-dressing with nitrogen-based fertilizers (e.g., urea) if soil tests indicate nitrogen deficiency
+* **Essential Care Tips:**
+	+ Monitor soil moisture levels regularly, especially during critical growth stages (germination and flowering)
+	+ Apply fungicides to prevent fungal diseases like cotton leaf spot or stem rot
+	+ Regularly inspect for pests like aphids, whiteflies, or spider mites and control using integrated pest management techniques
+
+**Additional Notes:**
+
+* Soil pH is slightly acidic; consider lime application if pH falls below 6.5
+* High nitrogen levels may lead to nitrate leaching; monitor soil moisture and adjust fertilizer applications accordingly
+================================================================================
+
+Primary Crop: cotton
+Input Conditions: {'N': '103', 'P': '42', 'K': '17', 'pH': '6.527541661', 'Rainfall': '81.05902285', 'Humidity': '84.61527627', 'Temperature': '24.29470232'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+**Crop Selection**
+```markdown
+* Primary Crop: Cotton
+* Secondary Crop: Soybean or Corn (rotation for soil health)
+```
+
+**Irrigation Method**
+```markdown
+* Best Irrigation Method: Drip Irrigation System
+  - Advantages:
+    + Water conservation
+    + Reduced soil erosion
+    + Increased crop yields
+  - Considerations:
+    + Initial investment cost
+    + Potential clogging issues
+```
+
+**Fertilizer Type & Dosage**
+```markdown
+* Fertilizer Type: Balanced N-P-K (Nitrogen-Phosphorus-Potassium)
+* Recommended Dosage:
+  - Nitrogen: 150 ppm (increase by 47 ppm from initial level)
+  - Phosphorus: 60 ppm (increase by 18 ppm from initial level)
+  - Potassium: 25 ppm (increase by 8 ppm from initial level)
+```
+
+**Essential Care Tips**
+```markdown
+* Monitoring:
+  + Soil pH: Maintain between 6.0 and 7.0 for optimal cotton growth
+  + Nutrient levels: Regularly test and adjust fertilizers as needed
+* Cultural Practices:
+  + Mulching to retain soil moisture and suppress weeds
+  + Crop rotation to improve soil fertility and structure
+```
+
+Note: These suggestions are based on general best practices and may need to be adjusted according to specific local conditions, farm size, and equipment availability.
+================================================================================
+
+Primary Crop: cotton
+Input Conditions: {'N': '133', 'P': '57', 'K': '19', 'pH': '7.947011366', 'Rainfall': '84.12536744', 'Humidity': '75.98203329', 'Temperature': '23.54234715'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+* **Crop Selection**
+	+ Primary Crop: Cotton (optimal growth at pH 7.5 - 8.0)
+	+ Secondary Crop: Maize or Wheat (complementary crop for soil stabilization and nitrogen fixation)
+* **Irrigation Method**: Drip Irrigation (efficient water usage and reduced runoff)
+* **Fertilizer**
+	+ Type: Balanced Fertilizer ( Nitrogen-Phosphorus-Potassium ratio: 10-10-10 NPK)
+	+ Dosage:
+		- Apply 200 kg/ha of 10-10-10 NPK fertilizer
+		- Follow up with nitrogen-rich fertilizers (e.g., Ammonium Sulfate) as needed, considering soil nitrate levels and crop requirements
+* **Care Tips**
+	+ Monitor temperature fluctuations to prevent damage to cotton plants (optimal growth at 25°C - 30°C)
+	+ Implement integrated pest management practices to control pests like aphids and whiteflies that thrive in warm temperatures and high humidity
+	+ Maintain regular soil moisture through irrigation, as rainfall alone may not be sufficient for optimal growth
+================================================================================
+
+Primary Crop: jute
+Input Conditions: {'N': '77', 'P': '55', 'K': '43', 'pH': '6.663559451', 'Rainfall': '193.71418280000003', 'Humidity': '75.99987588', 'Temperature': '25.49941707'}
+LLaMA Suggestions:
+Based on the provided soil and weather conditions, here are some structured farming suggestions:
+
+**Crop Selection**
+* Primary Crop: Jute
+* Secondary Crop: Sesame (as it complements jute well and requires similar growing conditions)
+
+**Irrigation Method**
+
+* Best Irrigation Method: **Drip Irrigation**, given the rainfall of 193.714 mm, which is sufficient for crop growth but may cause waterlogging in some areas.
+
+**Fertilization**
+
+* Fertilizer Type & Dosage:
+	+ Nitrogen (N): Apply urea @ 200 kg/ha
+	+ Phosphorus (P): Apply DAP @ 150 kg/ha
+	+ Potassium (K): Apply MOP @ 100 kg/ha
+
+**Care Tips**
+
+* **Soil pH Adjustment**: Maintain a slightly acidic to neutral soil pH between 6.0-7.0.
+* **Crop Rotation**: Rotate jute with sesame and other crops like mustard or linseed to maintain soil fertility and reduce pest/disease buildup.
+* **Water Management**: Monitor rainfall closely and adjust irrigation accordingly to avoid waterlogging or drought stress.
+
+**Additional Considerations**
+
+* For optimal growth, ensure the temperature remains between 20-30°C (ideal range for jute).
+* Maintain humidity levels above 50% for healthy crop growth.
+================================================================================
+
+Primary Crop: jute
+Input Conditions: {'N': '72', 'P': '41', 'K': '36', 'pH': '6.187746776', 'Rainfall': '176.8604109', 'Humidity': '80.57226761', 'Temperature': '24.09874353'}
+LLaMA Suggestions:
+Based on the given soil and weather conditions, here are the structured farming suggestions:
+
+**Farming Suggestions**
+
+* **Primary Crop:** jute
+* **Secondary Crop:** legume (e.g., bean or lentil) to fix nitrogen and improve soil fertility
+* **Best Irrigation Method:**
+	+ Water Requirements: 1.2-1.5 times of rainfall (in mm)
+	+ Scheduling: Irrigate every 4-5 days during peak temperature and humidity periods
+* **Fertilizer Type & Dosage:**
+	+ Nitrogen: Apply ammonium sulfate @ 25 kg/ha for the first crop, followed by urea @ 15 kg/ha for subsequent crops
+	+ Phosphorus: Apply diammonium phosphate (DAP) @ 20 kg/ha for the first crop, followed by single superphosphate (SSP) @ 10 kg/ha for subsequent crops
+* **Essential Care Tips:**
+	+ Monitor pH levels and adjust as necessary to maintain a range of 6.0-7.0
+	+ Maintain humidity above 60% during flowering and fruiting stages
+	+ Use mulching techniques to retain moisture and suppress weeds
+
+**Additional Considerations:**
+
+* Jute is a drought-sensitive crop; ensure adequate irrigation to prevent water stress.
+* Apply compost or manure to maintain soil health and fertility.
+* Monitor temperature fluctuations, as extreme temperatures can impact jute yields.
+
+These suggestions are based on general guidelines for jute cultivation under similar conditions. Always consult local experts and adjust these recommendations according to specific regional requirements and your farm's unique conditions.
+================================================================================
+
+Primary Crop: jute
+Input Conditions: {'N': '100', 'P': '56', 'K': '40', 'pH': '7.433313409', 'Rainfall': '176.1516409', 'Humidity': '83.31240346', 'Temperature': '26.38905406'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+### Soil Conditions
+- `Nitrogen`: 100 ppm (Optimal)
+- `Phosphorus`: 56 ppm (Suboptimal)
+- `Potassium`: 40 ppm (Suboptimal)
+- `pH Level`: 7.433313409 (Neutral)
+
+### Weather Conditions
+- `Rainfall`: 176.1516409 mm (Above average)
+- `Humidity`: 83.31240346% (High)
+- `Temperature`: 26.38905406°C (Warm)
+
+### Primary Crop: Jute
+
+#### Secondary Crop
+`Sugarcane` (to complement jute, utilizing intercropping for soil health and pest management benefits)
+
+#### Best Irrigation Method
+- **Drip Irrigation**: Effective in warm weather with high rainfall; reduces water loss through evaporation.
+
+#### Fertilizer Type & Dosage
+- `Nitrogen-based fertilizer`: 20 kg/ha (to supplement phosphorus and potassium levels)
+- `Organic matter`: Incorporate compost at 5 tons/ha for soil enrichment
+
+#### Essential Care Tips
+- **Crop rotation**: Implement to prevent disease buildup and maintain soil fertility.
+- **Mulching**: Use crop residue mulch to retain moisture, suppress weeds, and regulate temperature.
+- **Pest management**: Monitor regularly for pests and diseases, employing integrated pest management techniques when necessary.
+
+**Note:** These suggestions are tailored based on the provided conditions. Adjustments may be needed based on real-time monitoring of soil and weather parameters.
+================================================================================
+
+Primary Crop: jute
+Input Conditions: {'N': '100', 'P': '58', 'K': '41', 'pH': '6.6587699910000016', 'Rainfall': '160.6217342', 'Humidity': '87.88255345', 'Temperature': '23.17403323'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+### Primary Crop: Jute
+
+* Soil Requirements: Jute prefers a pH level between 6.0 and 7.0, which matches the given soil condition.
+* Climate Requirements:
+	+ Temperature: Jute grows best in temperatures between 25°C to 35°C.
+	+ Rainfall: Jute requires consistent rainfall throughout its growth period, with an average of 800-1200 mm per year.
+	+ Humidity: Jute prefers a humid climate, typically above 60%.
+
+### Secondary Crop
+
+* Sugarcane: It can be intercropped with jute, providing additional income and improving soil health.
+
+### Best Irrigation Method
+
+* **Drip Irrigation**: Suitable for jute cultivation in areas with limited water resources. It reduces water loss through evaporation and runoff, increasing water efficiency.
+
+### Fertilizer Type & Dosage
+
+* **NPK (Nitrogen-Phosphorus-Potassium)**: Based on the given soil analysis:
+	+ Nitrogen: 100 ppm is within the optimal range for jute.
+	+ Phosphorus: 58 ppm is below the recommended level; apply a phosphorus-rich fertilizer at 30 kg/ha.
+	+ Potassium: 41 ppm is also below the recommended level; apply a potassium-rich fertilizer at 20 kg/ha.
+
+### Essential Care Tips
+
+* **Soil Aeration**: Regularly cultivate the soil to maintain good aeration and prevent waterlogging.
+* **Pest Management**: Monitor for pests like nematodes, whiteflies, and aphids. Use integrated pest management techniques whenever possible.
+* **Crop Rotation**: Rotate jute with other crops (like sugarcane) to maintain soil health and reduce pests' resistance to pesticides.
+
+These suggestions are based on the provided input features and general guidelines for jute cultivation. For more specific advice, consider consulting local agricultural experts or resources tailored to your region's unique conditions.
+================================================================================
+
+Primary Crop: jute
+Input Conditions: {'N': '72', 'P': '51', 'K': '40', 'pH': '7.422318499', 'Rainfall': '199.4766779', 'Humidity': '74.09956958', 'Temperature': '23.20683504'}
+LLaMA Suggestions:
+Based on the given soil and weather conditions, here are the structured farming suggestions:
+
+**Farming Suggestions**
+
+* **Primary Crop:** jute
+* **Secondary Crop:** rice (as it is a common crop rotation practice in jute cultivation)
+* **Best Irrigation Method:** Surface irrigation with a frequency of 3-4 days, considering the moderate rainfall and humidity levels.
+* **Fertilizer Type & Dosage:**
+	+ NPK (Nitrogen, Phosphorus, Potassium) fertilizer
+	+ Initial application: 50 kg/ha of NPK (15-15-15)
+	+ First top dressing: 20 kg/ha of NPK after 30 days of planting
+	+ Second top dressing: 10 kg/ha of NPK after another 30 days
+* **Essential Care Tips:**
+	+ Maintain a pH level between 6.5 and 7.5 for optimal jute growth.
+	+ Monitor temperature fluctuations to avoid damage from extreme temperatures (below 15°C or above 30°C).
+	+ Ensure proper weed management through mulching and manual weeding.
+	+ Keep an eye on humidity levels, as high humidity can lead to fungal diseases.
+
+Note: The fertilizer dosage is based on general guidelines for jute cultivation. It's essential to consult with local agricultural experts or conduct soil tests for more accurate fertilizer recommendations.
+================================================================================
+
+Primary Crop: coffee
+Input Conditions: {'N': '106', 'P': '21', 'K': '35', 'pH': '7.4285236339999985', 'Rainfall': '188.5506536', 'Humidity': '57.04151119', 'Temperature': '25.627355'}
+LLaMA Suggestions:
+Based on the given soil and weather conditions, here are the farming suggestions:
+
+**Farming Suggestions**
+
+### Primary Crop: Coffee
+
+| **Property** | **Value** |
+| --- | --- |
+| **Crop Type** | Arabica or Robusta (depending on climate) |
+
+### Secondary Crop
+| **Crop** | **Reasoning** |
+| --- | --- |
+| Passion Fruit | Provides shade for coffee plants and adds to farm diversity. |
+
+### Best Irrigation Method
+| **Method** | **Value** |
+| --- | --- |
+| Drip Irrigation | Effective in conserving water and reducing runoff. |
+
+### Fertilizer Type & Dosage
+| **Fertilizer** | **Dosage (kg/ha)** |
+| --- | --- |
+| NPK (10-10-10) | 500 kg/ha for first year, adjust according to soil test results. |
+| Sulfur-based fertilizer | 200 kg/ha for pH adjustment, if required. |
+
+### Essential Care Tips
+
+| **Tip** | **Value** |
+| --- | --- |
+| Pruning and training | Regular pruning (every 6 months) to maintain plant shape and promote healthy growth. |
+| Pest management | Monitor for coffee berry borer, leaf miner, and other pests; use integrated pest management techniques when necessary. |
+| Soil health monitoring | Regularly test soil pH, nutrient levels, and water-holding capacity to adjust farming practices accordingly. |
+
+**Additional Recommendations:**
+
+* Consider using cover crops to improve soil fertility and reduce erosion.
+* Implement integrated coffee production (ICP) or shade-grown coffee systems for added biodiversity and ecosystem services.
+* Monitor temperature fluctuations and provide shade for young plants during extreme weather conditions.
+
+Note: These suggestions are based on general guidelines for small-scale coffee farming. Local specificities, such as climate, soil type, and pest/disease pressure, may require adjustments to these recommendations. Consult with local experts or conduct more detailed research before making decisions on your farm.
+================================================================================
+
+Primary Crop: coffee
+Input Conditions: {'N': '84', 'P': '36', 'K': '28', 'pH': '6.119892347', 'Rainfall': '140.63052130000003', 'Humidity': '55.55164819', 'Temperature': '26.7350622'}
+LLaMA Suggestions:
+Here are the structured farming suggestions based on the given soil and weather conditions:
+
+**Crop Selection**
+* Primary Crop: Coffee
+* Secondary Crop: Banana (complementary crop for coffee, helps maintain soil fertility)
+
+**Irrigation Method**
+* Best Irrigation Method: Drip Irrigation (efficient use of water, reduces runoff and evaporation)
+
+**Fertilizer Type & Dosage**
+* Nitrogen Fertilizer: 20-10-5 (15% NPK)
+	+ Recommended dosage: 1.2 kg/ha
+* Phosphorus Fertilizer: 32-04-00 (18% P2O5)
+	+ Recommended dosage: 0.8 kg/ha
+* Potassium Fertilizer: 50-01-02 (13% K2O)
+	+ Recommended dosage: 1.0 kg/ha
+
+**Essential Care Tips**
+* Soil pH Maintenance: Maintain a slightly acidic to neutral soil pH range (5.5-6.5) for optimal coffee growth
+* Water Management: Monitor rainfall and adjust irrigation schedule accordingly, aim for around 100 mm/month
+* Temperature Control: Provide shade for young plants during extreme temperatures (above 30°C)
+* Pest and Disease Management: Regularly inspect plants for signs of pests or diseases, use integrated pest management techniques
+
+**Additional Tips**
+
+* Plant coffee at an elevation of 600-900 meters above sea level to avoid high temperatures and moisture stress
+* Use cover crops like beans or peas to improve soil health and structure
+* Monitor humidity levels and provide ventilation in greenhouses or shaded areas if necessary
+================================================================================
+
+Primary Crop: coffee
+Input Conditions: {'N': '104', 'P': '35', 'K': '28', 'pH': '6.983732393', 'Rainfall': '143.9955548', 'Humidity': '50.66687215', 'Temperature': '27.51006055'}
+LLaMA Suggestions:
+Based on the provided soil and weather conditions, here are the structured farming suggestions for a coffee plantation:
+
+### Primary Crop: Coffee
+
+#### Secondary Crop:
+- Secondary crop: shade trees (e.g., Inga or Leucaena) to provide additional income and improve soil health.
+
+#### Best Irrigation Method:
+- **Drip irrigation**: efficient use of water, reduces evaporation, and prevents erosion.
+
+#### Fertilizer Type & Dosage:
+- **NPK balanced fertilizer** (16-8-12):
+  - Nitrogen: 30 kg/ha
+  - Phosphorus: 15 kg/ha
+  - Potassium: 12 kg/ha
+
+#### Essential Care Tips:
+
+*   Soil pH adjustment is not necessary since the current pH level of 6.98 is within the optimal range for coffee (5.5-7).
+*   Based on the rainfall and humidity levels, no additional irrigation is required.
+*   Maintain a temperature between 15°C and 30°C (59°F to 86°F) for optimal coffee growth.
+
+**Additional Recommendations:**
+
+*   Regular pruning and training of coffee plants
+*   Pests and diseases management through integrated pest management practices
+
+Please consult a local agricultural expert for further guidance tailored to your specific region's climate and regulations.
+================================================================================
+
+Primary Crop: coffee
+Input Conditions: {'N': '100', 'P': '40', 'K': '35', 'pH': '6.9557873510000015', 'Rainfall': '177.816092', 'Humidity': '54.41094079', 'Temperature': '27.56441788'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+* **Primary Crop:** Coffee
+* **Secondary Crop:** Banana (to provide shade and improve soil health)
+	+ Reason: Bananas require similar climate conditions to coffee and can help maintain a healthy ecosystem.
+* **Best Irrigation Method:** Drip Irrigation System
+	+ Reason: Efficient water usage, reduces evaporation and runoff.
+* **Fertilizer Type & Dosage:**
+	+ Nitrogen: Balanced fertilizer (10-20-10) at 50 kg/ha (1.2 pounds per acre)
+	+ Phosphorus: Diammonium phosphate (DAP) at 30 kg/ha (0.7 pounds per acre)
+	+ Potassium: Potash (KCl) at 20 kg/ha (0.5 pounds per acre)
+	+ Reason: Balanced fertilizer for overall growth, phosphorus for root development, and potassium for resistance.
+* **Essential Care Tips:**
+	+ Mulching to retain moisture and suppress weeds
+	+ Regular pruning to maintain plant shape and promote fruiting
+	+ Pest management (e.g., coffee berry borer) through integrated pest management techniques
+	+ Regular soil testing to monitor nutrient levels and adjust fertilizer application accordingly.
+================================================================================
+
+Primary Crop: coffee
+Input Conditions: {'N': '87', 'P': '38', 'K': '29', 'pH': '6.652642579', 'Rainfall': '156.1457255', 'Humidity': '57.88370456', 'Temperature': '25.20406808'}
+LLaMA Suggestions:
+**Farming Suggestions**
+
+### Primary Crop: Coffee
+
+#### Soil Analysis
+| Nutrient | ppm |
+| --- | --- |
+| Nitrogen (N) | 87 |
+| Phosphorus (P) | 38 |
+| Potassium (K) | 29 |
+
+#### Weather Conditions
+| Parameter | Value |
+| --- | --- |
+| pH Level | 6.65 |
+| Rainfall | 156.15 mm |
+| Humidity | 57.88% |
+| Temperature | 25.2°C |
+
+### Suggestions
+
+#### Secondary Crop: Banana (for shade and soil enrichment)
+
+#### Best Irrigation Method
+* Drip irrigation to minimize water loss and optimize nutrient delivery
+
+#### Fertilizer Type & Dosage
+* Organic fertilizer:
+	+ Nitrogen: 10-20 kg/ha (based on nitrogen requirement of coffee)
+	+ Phosphorus: 5-10 kg/ha (based on phosphorus requirement of banana)
+	+ Potassium: 5-10 kg/ha (based on potassium requirement of both crops)
+
+#### Essential Care Tips
+* Maintain optimal pH range (6.0-7.0) for coffee growth
+* Monitor and control humidity levels to prevent fungal diseases in coffee plants
+* Regularly prune and train banana plants for optimal shade and growth
+* Implement integrated pest management practices to minimize pesticide use
+================================================================================
+
