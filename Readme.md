@@ -4,42 +4,7 @@ The Agri Related ChatBot wich integrates RAG Pipeline to give domain specific Kn
 
 # 🧠 Grownius - ZeroBug: RAG-based Agri Chatbot Architecture
 
-                                +--------------------------+
-                                |      👨‍🌾   User          |
-                                +-----------+--------------+
-                                            |
-                                            v
-                               +------------+-------------+
-                               |     🌐 Frontend (React)   |
-                               |  - User Interface         |
-                               |  - Sends queries to API   |
-                               +------------+-------------+
-                                            |
-                                            v
-                               +------------+-------------+
-                               |     🐍 Backend (Python)    |
-                               |  - API using Flask/FastAPI|
-                               |  - Handles business logic |
-                               |  - Connects to RAG module |
-                               +------------+-------------+
-                                            |
-                                            v
-                       +--------------------+---------------------+
-                       |             🧠 RAG Pipeline              |
-                       |  +----------------+   +----------------+ |
-                       |  | Retrieval Module |   |  LLM (e.g. GPT) | |
-                       |  | (Vector DB)       |   |  Generates answer| |
-                       |  +----------------+   +----------------+ |
-                       +--------------------+---------------------+
-                                            |
-                                            v
-                          +-----------------+------------------+
-                          |  📘 Agricultural Knowledge Base     |
-                          |  - Curated Domain Documents         |
-                          |  - Used in Retrieval Step           |
-                          +-------------------------------------+
-
-
+![RAGCrop Methodology](New_Grownius.jpg)
 
 You're welcome! Here's a reshaped, professional version of your **"How to Run"** section for the `README.md`, formatted with clean headings, bullet points, and code blocks:
 
